@@ -1,0 +1,38 @@
+{
+    "DPW1": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "DPW2": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "DPW3": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "DPW4": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "DPW5": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "DPW6": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "DPW7": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "JBAdder1": {}
+}

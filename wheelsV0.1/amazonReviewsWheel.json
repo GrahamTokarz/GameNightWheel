@@ -1,0 +1,90 @@
+{
+    "1": {
+        "label": "Bones",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Toaster Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Amazon Reviews Wheel"
+    },
+    "2": {
+        "label": "Beans",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Toaster Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Amazon Reviews Wheel"
+    },
+    "3": {
+        "label": "The Stock Market",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Toaster Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Amazon Reviews Wheel"
+    },
+    "4": {
+        "label": "The Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Toaster Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Amazon Reviews Wheel"
+    },
+    "5": {
+        "label": "Grass",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Toaster Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Amazon Reviews Wheel"
+    },
+    "6": {
+        "label": "Building a house",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Toaster Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Amazon Reviews Wheel"
+    },
+    "7": {
+        "label": "Discussion Topics",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Toaster Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Amazon Reviews Wheel"
+    },
+    "8": {
+        "label": "Silence",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Toaster Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Amazon Reviews Wheel"
+    }
+}

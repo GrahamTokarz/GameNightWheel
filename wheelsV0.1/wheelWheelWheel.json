@@ -1,0 +1,46 @@
+{
+    "1": {
+        "label": "Wheel Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#EE8C4B",
+        "wheelName": "Wheel Wheel Wheel"
+    },
+    "2": {
+        "label": "Chaotic Wheel Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#BB6A29",
+        "wheelName": "Wheel Wheel Wheel"
+    },
+    "3": {
+        "label": "Wheel Wheel 3",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel 3",
+        "specialEffect": null,
+        "specialColor": "#334433",
+        "wheelName": "Wheel Wheel Wheel"
+    },
+    "4": {
+        "label": "Subwheels Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Subwheels Wheel",
+        "specialEffect": null,
+        "specialColor": "#882639",
+        "wheelName": "Wheel Wheel Wheel"
+    }
+}

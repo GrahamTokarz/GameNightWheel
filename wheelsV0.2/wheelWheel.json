@@ -1,0 +1,35 @@
+{
+    "1": {
+        "label": "I Made This Last Night Wheel",
+        "full": "I Made This Last Night Wheel :)",
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "I Made This Last Week Night",
+        "specialEffect": null,
+        "specialColor": "#2590A9",
+        "wheelName": "Wheel Wheel"
+    },
+    "2": {
+        "label": "Beginner Wheel",
+        "full": "Beginner Wheel Time!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": "#9B62F2",
+        "wheelName": "Wheel Wheel"
+    },
+    "3": {
+        "label": "Game Wheel",
+        "full": "Because Game Night",
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "Game Wheel",
+        "specialEffect": null,
+        "specialColor": "#6AB8E0",
+        "wheelName": "Wheel Wheel"
+    }
+}

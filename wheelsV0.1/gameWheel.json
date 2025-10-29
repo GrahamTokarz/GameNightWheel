@@ -1,0 +1,123 @@
+{
+    "1": {
+        "label": "Toggle SKONG Counter",
+        "full": "But wait, does that mean it's on or off?",
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "toggleSKONG",
+        "specialColor": "#AA2299",
+        "wheelName": "Game Wheel"
+    },
+    "2": {
+        "label": "Change Tick Sound",
+        "full": "Change Wheel Tick Sound",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "changeTick",
+        "specialColor": "#BB0488",
+        "wheelName": "Game Wheel"
+    },
+    "3": {
+        "label": "Spin Again!",
+        "full": "Spin Again!",
+        "sizeMult": 1,
+        "winMult": 5,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#9AB432",
+        "wheelName": "Game Wheel"
+    },
+    "4": {
+        "label": "Google Feud",
+        "full": "Play a game of Google Feud!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Game Wheel"
+    },
+    "5": {
+        "label": "Smash Karts",
+        "full": "Play a game of Battle Royale mode in Smash Karts",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Game Wheel"
+    },
+    "6": {
+        "label": "RPS tourney",
+        "full": "Do a Rock, Paper, Scissors tournament!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Game Wheel"
+    },
+    "7": {
+        "label": "Blather 'Round",
+        "full": "Play Blather 'Round!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Game Wheel"
+    },
+    "8": {
+        "label": "Among Us",
+        "full": "Play Among Us!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Game Wheel"
+    },
+    "9": {
+        "label": "Crab Game",
+        "full": "Play Crab Game!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Game Wheel"
+    },
+    "10": {
+        "label": "Earwax",
+        "full": "Play Earwax!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Game Wheel"
+    },
+    "11": {
+        "label": "Beginner Wheel",
+        "full": "Wait, Beginner Wheel??",
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": "#9B62F2",
+        "wheelName": "Game Wheel"
+    }
+}

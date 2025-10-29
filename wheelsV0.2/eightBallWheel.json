@@ -1,0 +1,222 @@
+{
+    "1": {
+        "label": "???",
+        "full": "It is certain",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "2": {
+        "label": "???",
+        "full": "It is decidedly so",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "3": {
+        "label": "???",
+        "full": "Without a doubt",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "4": {
+        "label": "???",
+        "full": "Yes definitely",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "5": {
+        "label": "???",
+        "full": "You may rely on it",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "6": {
+        "label": "???",
+        "full": "As I see it, yes",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "7": {
+        "label": "???",
+        "full": "Most likely",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "8": {
+        "label": "???",
+        "full": "Outlook good",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "9": {
+        "label": "???",
+        "full": "Yes",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "10": {
+        "label": "???",
+        "full": "Signs point to yes",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "11": {
+        "label": "???",
+        "full": "Reply hazy, try again",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "12": {
+        "label": "???",
+        "full": "Ask again later",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "13": {
+        "label": "???",
+        "full": "Better not tell you now",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "14": {
+        "label": "???",
+        "full": "Cannot predict now",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "15": {
+        "label": "???",
+        "full": "Concentrate and ask again",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "16": {
+        "label": "???",
+        "full": "Don't count on it",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "17": {
+        "label": "???",
+        "full": "My reply is no",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "18": {
+        "label": "???",
+        "full": "My sources say no",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "19": {
+        "label": "???",
+        "full": "Outlook not so good",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    },
+    "20": {
+        "label": "???",
+        "full": "Very doubtful",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Eight Ball Wheel"
+    }
+}

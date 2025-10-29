@@ -1,0 +1,57 @@
+{
+    "1": {
+        "label": "Points Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Points Wheel",
+        "specialEffect": null,
+        "specialColor": "#BB8236",
+        "wheelName": "Wheel Wheel 3"
+    },
+    "2": {
+        "label": "Doom Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Doom Wheel",
+        "specialEffect": null,
+        "specialColor": "#237BE7",
+        "wheelName": "Wheel Wheel 3"
+    },
+    "3": {
+        "label": "Cigar Wheel",
+        "full": "SKONG!!!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Cigar Wheel",
+        "specialEffect": null,
+        "specialColor": "#927385",
+        "wheelName": "Wheel Wheel 3"
+    },
+    "4": {
+        "label": "Wheel Wheel Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#AA88B5",
+        "wheelName": "Wheel Wheel 3"
+    },
+    "5": {
+        "label": "Wheel Modification Wheel",
+        "full": "Let's change things up a bit",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Modification Wheel",
+        "specialEffect": null,
+        "specialColor": "#31A24F",
+        "wheelName": "Wheel Wheel 3"
+    }
+}

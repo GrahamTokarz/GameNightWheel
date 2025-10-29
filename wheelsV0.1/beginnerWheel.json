@@ -1,0 +1,90 @@
+{
+    "1": {
+        "label": "Fibbage 4",
+        "full": "Fibbage 4: Enough About You",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "2": {
+        "label": "Gartic Phone",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "3": {
+        "label": "RESPIN!",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "4": {
+        "label": "Jumping Jacks",
+        "full": "25 Jumping Jacks",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "5": {
+        "label": "Wordle",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "6": {
+        "label": "d100",
+        "full": "Get a 69 on a d100, first person to send proof wins",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "7": {
+        "label": "Job Job",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "8": {
+        "label": "Sing 'All Star'",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    }
+}

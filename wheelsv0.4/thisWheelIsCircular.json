@@ -1,0 +1,64 @@
+{
+    "QUMaker": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDVS2": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "DARocketBot": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "GRAnnounce": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "AIUQuiz": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "QU0SAT": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "DEEPSA": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMCon": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMSC": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMAJ": {
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 2
+    },
+    "JBAdder1": {},
+    "JBAdder2": {},
+    "WHPS": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHWH": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    }
+}

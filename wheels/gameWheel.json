@@ -1,0 +1,13 @@
+{
+    "1": {
+        "label": "Beginner Wheel",
+        "full": "Wait, Beginner Wheel??",
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": "#9B62F2",
+        "wheelName": "Game Wheel"
+    }
+}

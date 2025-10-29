@@ -1,0 +1,17 @@
+{
+    "WHJackLow": {
+        "winMult": 16,
+        "sizeMult": 16,
+        "removeFromWheel": 0
+    },
+    "WHJackMid": {
+        "winMult": 28,
+        "sizeMult": 28,
+        "removeFromWheel": 0
+    },
+    "WHJackHigh": {
+        "winMult": 11,
+        "sizeMult": 11,
+        "removeFromWheel": 0
+    }
+}

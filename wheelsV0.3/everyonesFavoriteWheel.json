@@ -1,0 +1,67 @@
+{
+    "QUDriving": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMVelocity": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "GADrawBatl": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDLoading": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "NARDavid": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "DABanana": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDCorn": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "QUCFr": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDSocks": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMPS": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMSC": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHPE": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDRespin": {
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 0
+    }
+}

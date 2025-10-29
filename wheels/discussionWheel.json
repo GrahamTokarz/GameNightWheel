@@ -1,0 +1,79 @@
+{
+    "1": {
+        "label": "Beans",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Discussion Wheel"
+    },
+    "2": {
+        "label": "The Stock Market",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Discussion Wheel"
+    },
+    "3": {
+        "label": "The Wheel",
+        "full": "How beautiful the wheels are",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Discussion Wheel"
+    },
+    "4": {
+        "label": "Grass",
+        "full": "The smell of grass",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Discussion Wheel"
+    },
+    "5": {
+        "label": "Building a house",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Discussion Wheel"
+    },
+    "6": {
+        "label": "Killing People",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Discussion Wheel"
+    },
+    "7": {
+        "label": "Silence",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Discussion Wheel"
+    }
+}

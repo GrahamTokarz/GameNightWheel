@@ -1,0 +1,57 @@
+{
+    "1": {
+        "label": "Frog",
+        "full": "Jump like a frog",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Animal Wheel"
+    },
+    "2": {
+        "label": "Cat",
+        "full": "Have a cat hissing fight",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Animal Wheel"
+    },
+    "3": {
+        "label": "Horse",
+        "full": "You've been sat on!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Animal Wheel"
+    },
+    "4": {
+        "label": "Chicken",
+        "full": "For the next three wheel spins, only clucking",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Animal Wheel"
+    },
+    "5": {
+        "label": "Fly",
+        "full": "Fly back to the Wheel Wheel",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#EE8C4B",
+        "wheelName": "Animal Wheel"
+    }
+}

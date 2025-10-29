@@ -1,0 +1,62 @@
+{
+    "JBP1G3": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP2G5": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP3G4": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP4G3": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP5G4": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP6G2": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP6G5": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP7G2": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP7G5": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP8G4": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP10G4": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "JBP10G5": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    }
+}

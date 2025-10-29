@@ -1,0 +1,24 @@
+{
+    "1": {
+        "label": "Leave Jail",
+        "full": "-1 Jail Level",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "jailMinus",
+        "specialColor": null,
+        "wheelName": "Jail Wheel"
+    },
+    "2": {
+        "label": "Deeper Jail",
+        "full": "+1 Jail Level",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "jailPlus",
+        "specialColor": null,
+        "wheelName": "Jail Wheel"
+    }
+}

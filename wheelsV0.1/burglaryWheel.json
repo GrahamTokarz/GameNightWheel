@@ -1,0 +1,123 @@
+{
+    "1": {
+        "label": "Email Politician",
+        "full": "Email a local politician as a group",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "2": {
+        "label": "Word Spud",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 3,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "3": {
+        "label": "Fibbage 3",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "4": {
+        "label": "Colonist",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "5": {
+        "label": "Buzzfeed Quiz",
+        "full": "Which Disney Princess Are You?",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "6": {
+        "label": "TMP",
+        "full": "ChatGPT hosts TMP",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "7": {
+        "label": "???",
+        "full": "Hidden Achievement",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "hiddenAchievement",
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "8": {
+        "label": "Silence",
+        "full": "A moment of silence for men's mental health",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "9": {
+        "label": "RESPIN",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 3,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "#9AB432",
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "10": {
+        "label": "Feedback Survey",
+        "full": "Take a short feedback survey on your experience",
+        "sizeMult": 1,
+        "winMult": 4,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "11": {
+        "label": "Chaotic Wheel Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#BB6A29",
+        "wheelName": "Burglary Wheel"
+    }
+}

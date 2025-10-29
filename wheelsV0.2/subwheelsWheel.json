@@ -1,0 +1,68 @@
+{
+    "1": {
+        "label": "Eight Ball Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Eight Ball Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Subwheels Wheel"
+    },
+    "2": {
+        "label": "Discussion Wheel",
+        "full": "Discuss the following for 1 minute:",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Discussion Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Subwheels Wheel"
+    },
+    "3": {
+        "label": "Amazon Review Wheel",
+        "full": "Find Amazon reviews for the following:",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Amazon Review Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Subwheels Wheel"
+    },
+    "4": {
+        "label": "Jail Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Jail Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Subwheels Wheel"
+    },
+    "5": {
+        "label": "Forbidden Words Wheel",
+        "full": "Don't say this, or else:",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Forbidden Words Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Subwheels Wheel"
+    },
+    "6": {
+        "label": "Word Game Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Word Game Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Subwheels Wheel"
+    }
+}

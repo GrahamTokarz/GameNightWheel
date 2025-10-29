@@ -1,0 +1,52 @@
+{
+    "SPEWP1": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWP2": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWP3": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWP4": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWP5": {
+        "sizeMult": 1,
+        "winMult": 100,
+        "removeFromWheel": 0
+    },
+    "SPEWP6": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWP7": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWP8": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWP9": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWP10": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    }
+}

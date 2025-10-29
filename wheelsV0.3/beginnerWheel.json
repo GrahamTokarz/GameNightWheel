@@ -1,0 +1,47 @@
+{
+    "WH8B": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "DALio": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHJackCF": {
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 2
+    },
+    "DAWord": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDRespin": {
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 0
+    },
+    "PEBalance": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "QUUQ": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "GAUno": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMPS": {
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 1
+    }
+}

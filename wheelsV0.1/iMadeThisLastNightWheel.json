@@ -1,0 +1,134 @@
+{
+    "1": {
+        "label": "Call Simon",
+        "full": "770-296-0882",
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "2": {
+        "label": "Math Test",
+        "full": "You have three minutes, most correct answers gets +1 math point",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "3": {
+        "label": "Spin Again!",
+        "full": "Spin Again!",
+        "sizeMult": 10,
+        "winMult": 5,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#9AB432",
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "4": {
+        "label": "Sneezing Contest",
+        "full": "Whoever sneezes first [within 5 minutes] is cool",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "5": {
+        "label": "End Game Night",
+        "full": "What? You landed on this? Rigged.",
+        "sizeMult": 20,
+        "winMult": 0,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#38F98B",
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "6": {
+        "label": "I like having my BALLS kicked",
+        "full": "We watch this video.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "7": {
+        "label": "Find the strangest eBay item",
+        "full": "You have two minutes. Bert judges.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "8": {
+        "label": "+1 vicotry poinet",
+        "full": "becaeuse we dervere it!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "vicotryPoinet",
+        "specialColor": null,
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "9": {
+        "label": "Post on Jon's BlueSky",
+        "full": "Collectively write a BlueSky post for Jon",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "10": {
+        "label": "Increase velocity",
+        "full": "Spin length has been permanantly increased!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "velocity",
+        "specialColor": null,
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "11": {
+        "label": "Lick the wall",
+        "full": "Pretty simple, just lick a wall!",
+        "sizeMult": 1,
+        "winMult": 10,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "I Made This Last Night Wheel"
+    },
+    "12": {
+        "label": "Fun Wheel!",
+        "full": "FUN FUN FUN FUN FUN",
+        "sizeMult": 1,
+        "winMult": 4,
+        "removeFromWheel": 0,
+        "goToWheel": "Fun Wheel",
+        "specialEffect": null,
+        "specialColor": "#00FF00",
+        "wheelName": "I Made This Last Night Wheel"
+    }
+}

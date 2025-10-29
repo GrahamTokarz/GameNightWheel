@@ -1,0 +1,68 @@
+{
+    "1": {
+        "label": "Watch Paint Dry",
+        "full": "Watch paint dry for five minutes",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "2": {
+        "label": "Nonsensory",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "3": {
+        "label": "Amazon Reviews",
+        "full": "Read the amazon reviews for the following for 3 minutes:",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Amazon Reviews Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "4": {
+        "label": "Tonsel Inspection",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "5": {
+        "label": "Screaming",
+        "full": "A moment of screaming for 9/11",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "6": {
+        "label": "Jail Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Jail Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    }
+}

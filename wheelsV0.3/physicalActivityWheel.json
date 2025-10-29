@@ -1,0 +1,42 @@
+{
+    "PEW1": {
+        "sizeMult": 1,
+        "winMult": 100,
+        "removeFromWheel": 0
+    },
+    "PEW2": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "PEW3": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "PEW4": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "PEW5": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "PEW6": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "PEW7": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "PEW8": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "PWFunnyM": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "PWFunnyP": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "PWGener": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    }
+}

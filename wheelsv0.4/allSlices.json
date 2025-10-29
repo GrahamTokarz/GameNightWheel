@@ -1,0 +1,3358 @@
+{
+    "JBP1G1": {
+        "label": "YDKJ 2015",
+        "full": "You Don't Know Jack 2015",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G1"
+    },
+    "JBP1G2": {
+        "label": "Drawful",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G2"
+    },
+    "JBP1G3": {
+        "label": "Word Spud",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G3"
+    },
+    "JBP1G4": {
+        "label": "Lie Swatter",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G4"
+    },
+    "JBP1G5": {
+        "label": "FibbageXL",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G5"
+    },
+    "JBPSG1": {
+        "label": "Drawful 2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBPSG1"
+    },
+    "JBP2G1": {
+        "label": "Fibbage 2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G1"
+    },
+    "JBP2G2": {
+        "label": "Earwax",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G2"
+    },
+    "JBP2G3": {
+        "label": "Bidiots",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G3"
+    },
+    "JBP2G4": {
+        "label": "QuiplashXL",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G4"
+    },
+    "JBP2G5": {
+        "label": "Bomb Corp.",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G5"
+    },
+    "JBP3G1": {
+        "label": "Quiplash 2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G1"
+    },
+    "JBP3G2": {
+        "label": "TMP",
+        "full": "Trivia Murder Party",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G2"
+    },
+    "JBP3G3": {
+        "label": "Guesspionage",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G3"
+    },
+    "JBP3G4": {
+        "label": "Fakin' It",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G4"
+    },
+    "JBP3G5": {
+        "label": "Tee K.O.",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G5"
+    },
+    "JBP4G1": {
+        "label": "Fibbage 3",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G1"
+    },
+    "JBP4G1.5": {
+        "label": "Fibbage 3",
+        "full": "Fibbage 3: Enough About You",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G1.5"
+    },
+    "JBP4G2": {
+        "label": "Survive the Internet",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G2"
+    },
+    "JBP4G3": {
+        "label": "Monster Seeking Monster",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G3"
+    },
+    "JBP4G4": {
+        "label": "Bracketeering",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G4"
+    },
+    "JBP4G5": {
+        "label": "Civic Doodle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G5"
+    },
+    "JBP5G1": {
+        "label": "YDKJ Full Stream",
+        "full": "You Don't Know Jack Full Stream",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G1"
+    },
+    "JBP5G2": {
+        "label": "Split the Room",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G2"
+    },
+    "JBP5G3": {
+        "label": "Mad Verse City",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G3"
+    },
+    "JBP5G4": {
+        "label": "Zeeple Dome",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G4"
+    },
+    "JBP5G5": {
+        "label": "Patently Stupid",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G5"
+    },
+    "JBP6G1": {
+        "label": "TMP2",
+        "full": "Trivia Murder Party 2",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G1"
+    },
+    "JBP6G2": {
+        "label": "Role Models",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G2"
+    },
+    "JBP6G3": {
+        "label": "Joke Boat",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G3"
+    },
+    "JBP6G4": {
+        "label": "Dictionarium",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G4"
+    },
+    "JBP6G5": {
+        "label": "Push the Button",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G5"
+    },
+    "JBP7G1": {
+        "label": "Quiplash 3",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G1"
+    },
+    "JBP7G2": {
+        "label": "Devils",
+        "full": "The Devils and the Details",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G2"
+    },
+    "JBP7G3": {
+        "label": "Champed Up",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G3"
+    },
+    "JBP7G4": {
+        "label": "Talking Points",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G4"
+    },
+    "JBP7G5": {
+        "label": "Blather 'Round",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G5"
+    },
+    "JBP8G1": {
+        "label": "Drawful Animate",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G1"
+    },
+    "JBP8G2": {
+        "label": "The Wheel",
+        "full": "The Wheel of Enormous Proportions",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G2"
+    },
+    "JBP8G3": {
+        "label": "Job Job",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G3"
+    },
+    "JBP8G4": {
+        "label": "The Poll Mine",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G4"
+    },
+    "JBP8G5": {
+        "label": "Weapons Drawn",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G5"
+    },
+    "JBP9G1": {
+        "label": "Fibbage 4",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G1"
+    },
+    "JBP9G1.5": {
+        "label": "Fibbage 4",
+        "full": "Fibbage 4: Enough About You",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G1.5"
+    },
+    "JBP9G2": {
+        "label": "Roomerang",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G2"
+    },
+    "JBP9G3": {
+        "label": "Junktopia",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G3"
+    },
+    "JBP9G4": {
+        "label": "Nonsensory",
+        "full": "The 4 Game",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G4"
+    },
+    "JBP9G5": {
+        "label": "Quixort",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G5"
+    },
+    "JBP9G5.5": {
+        "label": "Quixort",
+        "full": "Quixort Infinite",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G5.5"
+    },
+    "JBP10G1": {
+        "label": "Tee K.O. 2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G1"
+    },
+    "JBP10G2": {
+        "label": "Timejinx",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G2"
+    },
+    "JBP10G3": {
+        "label": "FixyText",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G3"
+    },
+    "JBP10G4": {
+        "label": "Dodo Re Mi",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G4"
+    },
+    "JBP10G5": {
+        "label": "Hypnotorious",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G5"
+    },
+    "JBPSG2": {
+        "label": "Survey Scramble",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBPSG2"
+    },
+
+
+    "PEW1": {
+        "label": "Get Liquids!",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW1"
+    },
+    "PEW2": {
+        "label": "3 Minute Wall Sit",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW2"
+    },
+    "PEW3": {
+        "label": "2 Minute Plank",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW3"
+    },
+    "PEW4": {
+        "label": "30 Burpees",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW4"
+    },
+    "PEW5": {
+        "label": "90 Second Squat",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW5"
+    },
+    "PEW6": {
+        "label": "100 Jumping Jacks",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW6"
+    },
+    "PEW7": {
+        "label": "Stretch & Share",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW7"
+    },
+    "PEW8": {
+        "label": "2 Minutes o' High Knees",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW8"
+    },
+
+    "SPEWP1": {
+        "label": "Simon",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP1"
+    },
+    "SPEWP2": {
+        "label": "Jon",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP2"
+    },
+    "SPEWP3": {
+        "label": "Thalia",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP3"
+    },
+    "SPEWP4": {
+        "label": "Trinta",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP4"
+    },
+    "SPEWP5": {
+        "label": "Sanjay",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP5"
+    },
+    "SPEWP6": {
+        "label": "David",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP6"
+    },
+    "SPEWP7": {
+        "label": "Bret",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP7"
+    },
+    "SPEWP8": {
+        "label": "Matthew",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP8"
+    },
+    "SPEWP9": {
+        "label": "Sam",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP9"
+    },
+    "SPEWP10": {
+        "label": "Voosh",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP10"
+    },
+    "SPEWH1": {
+        "label": "$0",
+        "full": "Sanjay pays everyone $0!!",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH1"
+    },
+    "SPEWH2": {
+        "label": "$0.01",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH2"
+    },
+    "SPEWH3": {
+        "label": "$0.50",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH3"
+    },
+    "SPEWH4": {
+        "label": "$1",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH4"
+    },
+    "SPEWH5": {
+        "label": "$2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH5"
+    },
+    "SPEWH6": {
+        "label": "$4",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH6"
+    },
+    "SPEWH7": {
+        "label": "1/n of bank balance",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH7"
+    },
+
+    "EWNW1": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW1"
+    },
+    "EWNW2": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW2"
+    },
+    "EWNW3": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW3"
+    },
+    "EWNW4": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW4"
+    },
+    "EWNW5": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW5"
+    },
+    "EWNW6": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW6"
+    },
+    "EWNW7": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW7"
+    },
+    "EWNW8": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW8"
+    },
+    "EWNW9": {
+        "label": "End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "endNight",
+        "specialColor": "#0ABBA0",
+        "id": "EWNW9"
+    },
+    
+    "EB1": {
+        "label": "???",
+        "full": "It is certain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB1"
+    },
+    "EB2": {
+        "label": "???",
+        "full": "It is decidedly so",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB2"
+    },
+    "EB3": {
+        "label": "???",
+        "full": "Without a doubt",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB3"
+    },
+    "EB4": {
+        "label": "???",
+        "full": "Yes definitely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB4"
+    },
+    "EB5": {
+        "label": "???",
+        "full": "You may rely on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB5"
+    },
+    "EB6": {
+        "label": "???",
+        "full": "As I see it, yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB6"
+    },
+    "EB7": {
+        "label": "???",
+        "full": "Most likely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB7"
+    },
+    "EB8": {
+        "label": "???",
+        "full": "Outlook good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB8"
+    },
+    "EB9": {
+        "label": "???",
+        "full": "Yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB9"
+    },
+    "EB10": {
+        "label": "???",
+        "full": "Signs point to yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB10"
+    },
+    "EB11": {
+        "label": "???",
+        "full": "Reply hazy, try again",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB11"
+    },
+    "EB12": {
+        "label": "???",
+        "full": "Ask again later",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB12"
+    },
+    "EB13": {
+        "label": "???",
+        "full": "Better not tell you now",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB13"
+    },
+    "EB14": {
+        "label": "???",
+        "full": "Cannot predict now",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB14"
+    },
+    "EB15": {
+        "label": "???",
+        "full": "Concentrate and ask again",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB15"
+    },
+    "EB16": {
+        "label": "???",
+        "full": "Don't count on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB16"
+    },
+    "EB17": {
+        "label": "???",
+        "full": "My reply is no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB17"
+    },
+    "EB18": {
+        "label": "???",
+        "full": "My sources say no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB18"
+    },
+    "EB19": {
+        "label": "???",
+        "full": "Outlook not so good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB19"
+    },
+    "EB20": {
+        "label": "???",
+        "full": "Very doubtful",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB20"
+    },
+
+    "DPW1": {
+        "label": "Hmmmm",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DPW1"
+    },
+    "DPW2": {
+        "label": "Um",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DPW2"
+    },
+    "DPW3": {
+        "label": "I don't know...",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DPW3"
+    },
+    "DPW4": {
+        "label": "Maybe.... nah...",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DPW4"
+    },
+    "DPW5": {
+        "label": "...",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DPW5"
+    },
+    "DPW6": {
+        "label": "What if...",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DPW6"
+    },
+    "DPW7": {
+        "label": "Uhhhhhhhhhh",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DPW7"
+    },
+    
+    
+    "IOKrunk": {
+        "label": "Krunker.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "IOKrunk"
+    },
+    "IOAgar": {
+        "label": "Agar.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "IOAgar"
+    },
+    "IODiep": {
+        "label": "Diep.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "IODiep"
+    },
+    "IODefly": {
+        "label": "Defly.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "IODefly"
+    },
+    "IOSkribbl": {
+        "label": "Skribbl.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "IOSkribbl"
+    },
+    "IOSurvev": {
+        "label": "Survev.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "IOSurvev"
+    },
+    "IOFlorr": {
+        "label": "Florr.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "IOFlorr"
+    },
+
+    "SECSimon2": {
+        "label": "Simon",
+        "full": "turn on timmothy so i can talk to him",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SECSimon2"
+    },
+    "SECTrinta": {
+        "label": "Trinta",
+        "full": "fursona RP",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SECTrinta"
+    },
+    "SECJon": {
+        "label": "Jon",
+        "full": "give someone a catchphrase they have to use at the end of every sentence",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SECJon"
+    },
+    "SECBert": {
+        "label": "Bret",
+        "full": "David does a dance",
+        "goToWheel": "David Dance Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SECBert"
+    },
+    "SECThalia": {
+        "label": "Thalia",
+        "full": "+ chance to add Zeeple Dome slice every spin",
+        "goToWheel": null,
+        "specialEffect": "thaliaSpecialSlice",
+        "specialColor": null,
+        "id": "SECThalia"
+    },
+    "SECDavid2": {
+        "label": "David",
+        "full": "all progress in watching survivor/SVU is declared null and the shows much be begun again from the start",
+        "goToWheel": null,
+        "specialEffect": "thaliaSpecialSlice",
+        "specialColor": null,
+        "id": "SECDavid2"
+    },
+    "SECJames": {
+        "label": "James's Choice",
+        "full": "James's Choice... if he's here.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SECJames"
+    },
+
+    "PWFunnyM": {
+        "label": "- Funny Points",
+        "full": "-1000 Funny Points from Bret",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PWFunnyM"
+    },
+    "PWFunnyP": {
+        "label": "+ Funny Points",
+        "full": "+10 Funny Points to David",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PWFunnyP"
+    },
+    "PWGener": {
+        "label": "+ Generousity Points",
+        "full": "+1 Generousity Point to Barack Obama",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PWGener"
+    },
+
+    "DDW1":{ 
+        "label": "Orange Justice",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW1"
+    },
+    "DDW2":{ 
+        "label": "Floss",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW2"
+    },
+    "DDW3":{ 
+        "label": "Rockette",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW3"
+    },
+    "DDW4":{ 
+        "label": "Thug Shaker",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW4"
+    },
+    "DDW5":{ 
+        "label": "Teapot",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW5"
+    },
+    "DDW6":{ 
+        "label": "The Lamby Lamby Dance",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW6"
+    },
+    "DDW7":{ 
+        "label": "Macarena",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW7"
+    },
+    "DDW8":{ 
+        "label": "YMCA",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW8"
+    },
+    "DDW9":{ 
+        "label": "Walk like an Egyptian",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW9"
+    },
+    "DDW10":{ 
+        "label": "The Electric Slide",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW10"
+    },
+    "DDW11":{ 
+        "label": "The Cupid Shuffle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "DDW11"
+    },
+
+
+    "DAWord": {
+        "label": "Wordle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DAWord"
+    },
+    "DACodename": {
+        "label": "Codenames",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DACodename"
+    },
+    "DARocketBot": {
+        "label": "Rocket Bot Royale",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DARocketBot"
+    },
+
+    
+    "GACheese2": {
+        "label": "Cheese Rolling",
+        "full": "Play 1 set of LIVING CHEESE in Cheese Rolling",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#FFC94A",
+        "id": "GACheese2"
+    },
+    "GARetail": {
+        "label": "Retaildle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GARetail"
+    },
+    "GARetail2": {
+        "label": "Retail Mini",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GARetail2"
+    },
+    "GAWood": {
+        "label": "Woodle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAWood"
+    },
+    "GAWiki": {
+        "label": "Wiki Race",
+        "full": "Wikipedia Race: Wheel -> Night",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAWiki"
+    },
+    "GASteam": {
+        "label": "???",
+        "full": "Play a new free steam game!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GASteam"
+    },
+    "GAInf": {
+        "label": "Infinite Craft",
+        "full": "Get Wheel in Infinite Craft",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAInf"
+    },
+    "GABloTan": {
+        "label": "Block Tanks",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GABloTan"
+    },
+    "GAWordSearch": {
+        "label": "Daily Word Search",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAWordSearch"
+    },
+    "GAFinger": {
+        "label": "Fingerguns",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAFinger"
+    },
+    "GADrawBatl": {
+        "label": "Draw Battle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GADrawBatl"
+    },
+    "GAJigsaw": {
+        "label": "Jigsaw Puzzle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAJigsaw"
+    },
+
+    "PEPL": {
+        "label": "Plank",
+        "full": "30 Second Plank",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "PEPL"
+    },
+
+    "RANDRespin": {
+        "label": "Respin!",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDRespin"
+    },
+    "RANDBoba": {
+        "label": "Car Adventure",
+        "full": "Boba Time!!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDBoba"
+    },
+    "RANDCF": {
+        "label": "Coin Flip Torunament",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDCF"
+    },
+    "RANDOutlet": {
+        "label": "Change outlet",
+        "full": "Change what outlet you're using",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDOutlet"
+    },
+    "RANDVS2": {
+        "label": "Venmo Request Simon",
+        "full": "Send Simon a $1 Venmo Request (@simondaug)",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDVS2"
+    },
+
+    "MUHFM": {
+        "label": "Hangout.fm",
+        "full": "Start a Hangout.fm Room",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "MUHFM"
+    },
+    "MUTMBG": {
+        "label": "TMBG Heardle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "MUTMBG"
+    },
+
+    "VDSimon": {
+        "label": "Simon's YT",
+        "full": "Watch Simon's most popular YT video",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "VDSimon"
+    },
+
+    "GRWriteTR": {
+        "label": "Email the President",
+        "full": "Email Trump. Everyone gets one line.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GRWriteTR"
+    },
+    "GRAnnounce": {
+        "label": "Write an annoucement",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GRAnnounce"
+    },
+
+    "QUUQ": {
+        "label": "UQuiz",
+        "full": "Take a quiz from the UQuiz front page",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id":"QUUQ"
+    },
+    "QUIFr": {
+        "label": "Trivia",
+        "full": "Incorrectly answer a question on 17th century French politicians",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUIFr"
+    },
+    "QU0SAT": {
+        "label": "SAT Prep",
+        "full": "Get a 0 on an SAT Practice Exam.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QU0SAT"
+    },
+    "QUGerman": {
+        "label": "German Test",
+        "full": "Do a German Language Level Test",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUGerman"
+    },
+    "QUBuzz4": {
+        "label": "Buzzfeed Quiz",
+        "full": "How weird are you?",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUBuzz4"
+    },
+    "QUMaker": {
+        "label": "Make a personality quiz",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUMaker"
+    },
+
+    "NARDavid": {
+        "label": "David Story",
+        "full": "David tells us a story",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "NARDavid"
+    },
+
+    "AIUQuiz": {
+        "label": "ChatGPT Personality Test",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "AIUQuiz"
+    },
+
+    "WH8B": {
+        "label": "Eight Ball",
+        "full": "Ask the Magic Eight Ball a question",
+        "goToWheel": "Eight Ball Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": null,
+        "id": "WH8B"
+    },
+    "WHSec": {
+        "label": "Secret Wheel",
+        "full": "Do somebody's secret activity",
+        "goToWheel": "Secret Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#625391",
+        "id": "WHSec"
+    },
+    "WHJackCF": {
+        "label": "Jackbox Game",
+        "full": "Jackbox Game Time!",
+        "goToWheel": "Jackbox Coinflip Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#479788",
+        "id": "WHJackCF"
+    },
+    "WHJackHeads": {
+        "label": "Heads",
+        "full": "Sort by type!",
+        "goToWheel": "Jackbox Types Wheel",
+        "specialEffect": null,
+        "specialColor": "#000000",
+        "id": "WHJackHeads"
+    },
+    "WHJackTails": {
+        "label": "Tails",
+        "full": "Sort by rating!",
+        "goToWheel": "Jackbox Ratings Wheel",
+        "specialEffect": null,
+        "specialColor": "#FFFFFF",
+        "id": "WHJackTails"
+    },
+    "WHJackLow": {
+        "label": "Low",
+        "full": "Low rated game!",
+        "goToWheel": "Low Rated Jackbox Wheel",
+        "specialEffect": null,
+        "specialColor": "#FF0000",
+        "id": "WHJackLow"
+    },
+    "WHJackMid": {
+        "label": "Mid",
+        "full": "Mid rated game!",
+        "goToWheel": "Mid Rated Jackbox Wheel",
+        "specialEffect": null,
+        "specialColor": "#0000FF",
+        "id": "WHJackMid"
+    },
+    "WHJackHigh": {
+        "label": "High",
+        "full": "High rated game!",
+        "goToWheel": "High Rated Jackbox Wheel",
+        "specialEffect": null,
+        "specialColor": "#00FF00",
+        "id": "WHJackHigh"
+    },
+    "WHJackArcade": {
+        "label": "Arcade",
+        "full": "'Arcade' type game!",
+        "goToWheel": "Jackbox Arcade Games Wheel",
+        "specialEffect": null,
+        "specialColor": "#F0F000",
+        "id": "WHJackArcade"
+    },
+    "WHJackDraw": {
+        "label": "Drawing",
+        "full": "Drawing game!",
+        "goToWheel": "Jackbox Drawing Games Wheel",
+        "specialEffect": null,
+        "specialColor": "#00F0F0",
+        "id": "WHJackDraw"
+    },
+    "WHJackPrompt": {
+        "label": "Prompt",
+        "full": "Prompt based game!",
+        "goToWheel": "Jackbox Prompt Games Wheel",
+        "specialEffect": null,
+        "specialColor": "#000FF0",
+        "id": "WHJackPrompt"
+    },
+    "WHJackTrivia": {
+        "label": "Trivia",
+        "full": "Trivia game!",
+        "goToWheel": "Jackbox Trivia Games Wheel",
+        "specialEffect": null,
+        "specialColor": "#F000F0",
+        "id": "WHJackTrivia"
+    },
+    "WHWH": {
+        "label": "Wheel Wheel",
+        "full": "GO TO THE WHEEL WHEEL!",
+        "goToWheel": "Wheel Wheel",
+        "specialEffect": "unlockCurrency",
+        "specialColor": "#EE8C4B",
+        "id": "WHWH"
+    },
+    "WHEWN": {
+        "label": "End Wheel Night Wheel",
+        "full": null,
+        "goToWheel": "End Wheel Night Wheel",
+        "specialEffect": null,
+        "specialColor": "#942B08",
+        "id": "WHEWN"      
+    },
+    "WHCig": {
+        "label": "Cigar Wheel",
+        "full": null,
+        "goToWheel": "Cigar Wheel",
+        "specialEffect": null,
+        "specialColor": "#927385",
+        "id": "WHCig"
+    },
+    "WHPaySome": {
+        "label": "Payment Wheel",
+        "full": "Somebody pays everyone here",
+        "goToWheel": "Who's Paying Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#2734E3",
+        "id": "WHPaySome"
+    },
+    "WHMurica": {
+        "label": "America Wheel",
+        "full": null,
+        "goToWheel": "America Wheel",
+        "specialEffect": null,
+        "specialColor": "#D91012",
+        "id": "WHMurica"
+    },
+    "WHPE": {
+        "label": "Physical Activity Wheel",
+        "full": "PHYSICAL ACTIVITY TIME!",
+        "goToWheel": "Physical Activity Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#36B989",
+        "id": "WHPE"
+    },
+    "WHEFW": {
+        "label": "Everyone's Favorite Wheel",
+        "full": null,
+        "goToWheel": "Everyone's Favorite Wheel",
+        "specialEffect": null,
+        "specialColor": "#5459A8",
+        "id": "WHEFW"
+    },
+    "WHPoints": {
+        "label": "Points Wheel",
+        "full": null,
+        "goToWheel": "Points Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#BB8236",
+        "id": "WHPoints"
+    },
+    "WHMag": {
+        "label": "Ceaseless Watcher Wheel",
+        "full": null,
+        "goToWheel": "Ceaseless Watcher Wheel",
+        "specialEffect": null,
+        "specialColor": "#117b4e",
+        "id": "WHMag"
+    },
+    "WHEAFW": {
+        "label": "Everyone's Actual Favorite Wheel",
+        "full": null,
+        "goToWheel": "Everyone's Actual Favorite Wheel",
+        "specialEffect": null,
+        "specialColor": "#DEC93E",
+        "id": "WHEAFW"      
+    },
+    "WHPS": {
+        "label": "Past Slice Wheel",
+        "full": null,
+        "goToWheel": "Past Slice Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#DEC93E",
+        "id": "WHPS"      
+    },
+    "WHSpiderMan": {
+        "label": "Spider Man Wheel",
+        "full": null,
+        "goToWheel": "Spider Man Wheel",
+        "specialEffect": null,
+        "specialColor": "#DD1111",
+        "id": "WHSpiderMan"
+    },
+    "WHSalv": {
+        "label": "Salivation Wheel",
+        "full": null,
+        "goToWheel": "Salivation Wheel",
+        "specialEffect": null,
+        "specialColor": "#927491",
+        "id": "WHSalv"
+    },
+    "WHSmSc": {
+        "label": "Smacky Scissors Wheel",
+        "full": null,
+        "goToWheel": "Smacky Scissors Wheel",
+        "specialEffect": null,
+        "specialColor": "#E9B264",
+        "id": "WHSmSc"
+    },
+    "WHGoop": {
+        "label": "Goop Wheel",
+        "full": null,
+        "goToWheel": "Goop Wheel",
+        "specialEffect": null,
+        "specialColor": "#B728D9",
+        "id": "WHGoop"
+    },
+    "WHCircular": {
+        "label": "This Wheel is Circular",
+        "full": null,
+        "goToWheel": "This Wheel is Circular",
+        "specialEffect": null,
+        "specialColor": "#27DD83",
+        "id": "WHCircular"
+    },
+    "WHDecPar": {
+        "label": "Decision Paralysis Wheel",
+        "full": null,
+        "goToWheel": "Decision Paralysis Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#826349",
+        "id": "WHDecPar"
+    },
+    "WHInf": {
+        "label": "200 Ball Wheel",
+        "full": null,
+        "goToWheel": "200 Ball Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#826349",
+        "id": "WHInf"
+    },
+    "WHio": {
+        "label": ".io Wheel",
+        "full": null,
+        "goToWheel": "IO Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#826349",
+        "id": "WHio"
+    },
+    
+    "WHMPS": {
+        "label": "Add Past Slice",
+        "full": "Add a slice from a past week",
+        "goToWheel": null,
+        "specialEffect": "pastSlice",
+        "specialColor": "#AA3590",
+        "id": "WHMPS"
+    },
+    "WHMSC": {
+        "label": "Change Colors",
+        "full": "Change Wheel Color Scheme",
+        "goToWheel": null,
+        "specialEffect": "wheelColors",
+        "specialColor": "#90AA35",
+        "id": "WHMSC"
+    },
+    "WHMTick": {
+        "label": "Change Tick Sound",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "changeTick",
+        "specialColor": "#BB0488",
+        "id": "WHMTick"
+    },
+    "WHMAJ": {
+        "label": "Add Jackbox Game",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "addJack",
+        "specialColor": "#479788",
+        "id": "WHMAJ"
+    },
+    "WHMCon": {
+        "label": "Toggle Confetti",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "toggleConf",
+        "specialColor": "#B819DF",
+        "id": "WHMCon"
+    },
+
+    "THZEEP": {
+        "label": "Zeeple Dome!",
+        "full": "WE'RE PLAYING ZEEPLE DOME!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#EF3FC9",
+        "id": "THZEEP"           
+    },
+
+    "DEEPSA": {
+        "label": "Appreciation",
+        "full": "Share your favorite thing about yourself.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DEEPSA"
+    },
+    
+    "TEMP1": {
+        "label": "1",
+        "full": "It is certain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP1"
+    },
+    "TEMP2": {
+        "label": "2",
+        "full": "It is decidedly so",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP2"
+    },
+    "TEMP3": {
+        "label": "3",
+        "full": "Without a doubt",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP3"
+    },
+    "TEMP4": {
+        "label": "4",
+        "full": "Yes definitely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP4"
+    },
+    "TEMP5": {
+        "label": "5",
+        "full": "You may rely on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP5"
+    },
+    "TEMP6": {
+        "label": "6",
+        "full": "As I see it, yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP6"
+    },
+    "TEMP7": {
+        "label": "7",
+        "full": "Most likely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP7"
+    },
+    "TEMP8": {
+        "label": "8",
+        "full": "Outlook good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP8"
+    },
+    "TEMP9": {
+        "label": "9",
+        "full": "Yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP9"
+    },
+    "TEMP10": {
+        "label": "10",
+        "full": "Signs point to yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP10"
+    },
+    "TEMP11": {
+        "label": "11",
+        "full": "Reply hazy, try again",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP11"
+    },
+    "TEMP12": {
+        "label": "12",
+        "full": "Ask again later",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP12"
+    },
+    "TEMP13": {
+        "label": "13",
+        "full": "Better not tell you now",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP13"
+    },
+    "TEMP14": {
+        "label": "14",
+        "full": "Cannot predict now",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP14"
+    },
+    "TEMP15": {
+        "label": "15",
+        "full": "Concentrate and ask again",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP15"
+    },
+    "TEMP16": {
+        "label": "16",
+        "full": "Don't count on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP16"
+    },
+    "TEMP17": {
+        "label": "17",
+        "full": "My reply is no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP17"
+    },
+    "TEMP18": {
+        "label": "18",
+        "full": "My sources say no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP18"
+    },
+    "TEMP19": {
+        "label": "19",
+        "full": "Outlook not so good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP19"
+    },
+    "TEMP20": {
+        "label": "20",
+        "full": "Very doubtful",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP20"
+    },
+    "TEMP21": {
+        "label": "21",
+        "full": "Absolutely not",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP21"
+    },
+    "TEMP22": {
+        "label": "22",
+        "full": "Don't bet on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP22"
+    },
+    "TEMP23": {
+        "label": "23",
+        "full": "No way",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP23"
+    },
+    "TEMP24": {
+        "label": "24",
+        "full": "Unlikely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP24"
+    },
+    "TEMP25": {
+        "label": "25",
+        "full": "Ask again in a moment",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP25"
+    },
+    "TEMP26": {
+        "label": "26",
+        "full": "I have my doubts",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP26"
+    },
+    "TEMP27": {
+        "label": "27",
+        "full": "I'm not so sure",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP27"
+    },
+    "TEMP28": {
+        "label": "28",
+        "full": "It's a long shot",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP28"
+    },
+    "TEMP29": {
+        "label": "29",
+        "full": "Maybe, maybe not",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP29"
+    },
+    "TEMP30": {
+        "label": "30",
+        "full": "Too soon to tell",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP30"
+    },
+    "TEMP31": {
+        "label": "31",
+        "full": "The future is unclear",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP31"
+    },
+    "TEMP32": {
+        "label": "32",
+        "full": "Maybe in time",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP32"
+    },
+    "TEMP33": {
+        "label": "33",
+        "full": "Not looking good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP33"
+    },
+    "TEMP34": {
+        "label": "34",
+        "full": "Chances are slim",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP34"
+    },
+    "TEMP35": {
+        "label": "35",
+        "full": "Highly unlikely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP35"
+    },
+    "TEMP36": {
+        "label": "36",
+        "full": "I wouldn't count on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP36"
+    },
+    "TEMP37": {
+        "label": "37",
+        "full": "I don't think so",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP37"
+    },
+    "TEMP38": {
+        "label": "38",
+        "full": "Not likely at all",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP38"
+    },
+    "TEMP39": {
+        "label": "39",
+        "full": "Too early to know",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP39"
+    },
+    "TEMP40": {
+        "label": "40",
+        "full": "Hard to say",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP40"
+    },
+    "TEMP41": {
+        "label": "41",
+        "full": "I wouldn't bet on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP41"
+    },
+    "TEMP42": {
+        "label": "42",
+        "full": "The signs are unclear",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP42"
+    },
+    "TEMP43": {
+        "label": "43",
+        "full": "The stars aren't aligned",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP43"
+    },
+    "TEMP44": {
+        "label": "44",
+        "full": "The answer is hazy",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP44"
+    },
+    "TEMP45": {
+        "label": "45",
+        "full": "Unclear at this time",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP45"
+    },
+    "TEMP46": {
+        "label": "46",
+        "full": "I'd say no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP46"
+    },
+    "TEMP47": {
+        "label": "47",
+        "full": "The odds are not good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP47"
+    },
+    "TEMP48": {
+        "label": "48",
+        "full": "I'm doubtful",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP48"
+    },
+    "TEMP49": {
+        "label": "49",
+        "full": "Not in the near future",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP49"
+    },
+    "TEMP50": {
+        "label": "50",
+        "full": "No clear answer",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP50"
+    },
+    "TEMP51": {
+        "label": "51",
+        "full": "It's uncertain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP51"
+    },
+    "TEMP52": {
+        "label": "52",
+        "full": "Not promising",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP52"
+    },
+    "TEMP53": {
+        "label": "53",
+        "full": "Could be a no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP53"
+    },
+    "TEMP54": {
+        "label": "54",
+        "full": "I wouldn't count on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP54"
+    },
+    "TEMP55": {
+        "label": "55",
+        "full": "Definitely no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP55"
+    },
+    "TEMP56": {
+        "label": "56",
+        "full": "Negative answer",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP56"
+    },
+    "TEMP57": {
+        "label": "57",
+        "full": "I'd avoid hoping for it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP57"
+    },
+    "TEMP58": {
+        "label": "58",
+        "full": "Highly unlikely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP58"
+    },
+    "TEMP59": {
+        "label": "59",
+        "full": "The chances are low",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP59"
+    },
+    "TEMP60": {
+        "label": "60",
+        "full": "Not favorable",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP60"
+    },
+    "TEMP61": {
+        "label": "61",
+        "full": "Could go either way",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP61"
+    },
+    "TEMP62": {
+        "label": "62",
+        "full": "The stars are not in favor",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP62"
+    },
+    "TEMP63": {
+        "label": "63",
+        "full": "Could be a yes, could be a no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP63"
+    },
+    "TEMP64": {
+        "label": "64",
+        "full": "It's hard to tell",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP64"
+    },
+    "TEMP65": {
+        "label": "65",
+        "full": "It's up in the air",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP65"
+    },
+    "TEMP66": {
+        "label": "66",
+        "full": "Maybe in the distant future",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP66"
+    },
+    "TEMP67": {
+        "label": "67",
+        "full": "Seems uncertain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP67"
+    },
+    "TEMP68": {
+        "label": "68",
+        "full": "Possibly, but not likely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP68"
+    },
+    "TEMP69": {
+        "label": "69",
+        "full": "Unlikely at best",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP69"
+    },
+    "TEMP70": {
+        "label": "70",
+        "full": "The signs are mixed",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP70"
+    },
+    "TEMP71": {
+        "label": "71",
+        "full": "Could be a good possibility",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP71"
+    },
+    "TEMP72": {
+        "label": "72",
+        "full": "The outcome is uncertain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP72"
+    },
+    "TEMP73": {
+        "label": "73",
+        "full": "Too early to decide",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP73"
+    },
+    "TEMP74": {
+        "label": "74",
+        "full": "It's a mystery",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP74"
+    },
+    "TEMP75": {
+        "label": "75",
+        "full": "Can't predict this one",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP75"
+    },
+    "TEMP76": {
+        "label": "76",
+        "full": "The outlook is unclear",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP76"
+    },
+    "TEMP77": {
+        "label": "77",
+        "full": "The future holds possibilities",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP77"
+    },
+    "TEMP78": {
+        "label": "78",
+        "full": "The answer is still forming",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP78"
+    },
+    "TEMP79": {
+        "label": "79",
+        "full": "A definite maybe",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP79"
+    },
+    "TEMP80": {
+        "label": "80",
+        "full": "Anything is possible",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP80"
+    },
+    "TEMP81": {
+        "label": "81",
+        "full": "The universe is undecided",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP81"
+    },
+    "TEMP82": {
+        "label": "82",
+        "full": "The chances are decent",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP82"
+    },
+    "TEMP83": {
+        "label": "83",
+        "full": "You'll have to wait and see",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP83"
+    },
+    "TEMP84": {
+        "label": "84",
+        "full": "The answer lies in time",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP84"
+    },
+    "TEMP85": {
+        "label": "85",
+        "full": "The future remains hidden",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP85"
+    },
+    "TEMP86": {
+        "label": "86",
+        "full": "The odds are favorable",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP86"
+    },
+    "TEMP87": {
+        "label": "87",
+        "full": "Trust the process",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP87"
+    },
+    "TEMP88": {
+        "label": "88",
+        "full": "Chances are good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP88"
+    },
+    "TEMP89": {
+        "label": "89",
+        "full": "The future is bright",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP89"
+    },
+    "TEMP90": {
+        "label": "90",
+        "full": "A favorable answer",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP90"
+    },
+    "TEMP91": {
+        "label": "91",
+        "full": "The answer is yes, for now",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP91"
+    },
+    "TEMP92": {
+        "label": "92",
+        "full": "Very possible",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP92"
+    },
+    "TEMP93": {
+        "label": "93",
+        "full": "Chances are high",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP93"
+    },
+    "TEMP94": {
+        "label": "94",
+        "full": "Looking very good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP94"
+    },
+    "TEMP95": {
+        "label": "95",
+        "full": "Definitely yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP95"
+    },
+    "TEMP96": {
+        "label": "96",
+        "full": "Absolutely yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP96"
+    },
+    "TEMP97": {
+        "label": "97",
+        "full": "Without question",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP97"
+    },
+    "TEMP98": {
+        "label": "98",
+        "full": "All signs point to yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP98"
+    },
+    "TEMP99": {
+        "label": "99",
+        "full": "You can count on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP99"
+    },
+    "TEMP100": {
+        "label": "100",
+        "full": "Undoubtedly yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP100"
+    },
+    "TEMP101": {
+        "label": "101",
+        "full": "Yes, with confidence",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP101"
+    },
+    "TEMP102": {
+        "label": "102",
+        "full": "No doubt about it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP102"
+    },
+    "TEMP103": {
+        "label": "103",
+        "full": "It's practically certain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP103"
+    },
+    "TEMP104": {
+        "label": "104",
+        "full": "Yes, most definitely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP104"
+    },
+    "TEMP105": {
+        "label": "105",
+        "full": "That's a yes from me",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP105"
+    },
+    "TEMP106": {
+        "label": "106",
+        "full": "All clear for yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP106"
+    },
+    "TEMP107": {
+        "label": "107",
+        "full": "The odds are in your favor",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP107"
+    },
+    "TEMP108": {
+        "label": "108",
+        "full": "Looks like a strong yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP108"
+    },
+    "TEMP109": {
+        "label": "109",
+        "full": "Sure thing",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP109"
+    },
+    "TEMP110": {
+        "label": "110",
+        "full": "You can be sure of it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP110"
+    },
+    "TEMP111": {
+        "label": "111",
+        "full": "It's a go",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP111"
+    },
+    "TEMP112": {
+        "label": "112",
+        "full": "The answer is affirmative",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP112"
+    },
+    "TEMP113": {
+        "label": "113",
+        "full": "Positively yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP113"
+    },
+    "TEMP114": {
+        "label": "114",
+        "full": "Yes, that's right",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP114"
+    },
+    "TEMP115": {
+        "label": "115",
+        "full": "No hesitation — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP115"
+    },
+    "TEMP116": {
+        "label": "116",
+        "full": "You may trust the answer is yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP116"
+    },
+    "TEMP117": {
+        "label": "117",
+        "full": "The outcome is promising",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP117"
+    },
+    "TEMP118": {
+        "label": "118",
+        "full": "Definitely in your favor",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP118"
+    },
+    "TEMP119": {
+        "label": "119",
+        "full": "I foresee a yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP119"
+    },
+    "TEMP120": {
+        "label": "120",
+        "full": "Everything points to yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP120"
+    },
+    "TEMP121": {
+        "label": "121",
+        "full": "It's practically guaranteed",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP121"
+    },
+    "TEMP122": {
+        "label": "122",
+        "full": "Without any doubt, yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP122"
+    },
+    "TEMP123": {
+        "label": "123",
+        "full": "Everything says yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP123"
+    },
+    "TEMP124": {
+        "label": "124",
+        "full": "You can rely on a yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP124"
+    },
+    "TEMP125": {
+        "label": "125",
+        "full": "Yes, the signs are clear",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP125"
+    },
+    "TEMP126": {
+        "label": "126",
+        "full": "All outcomes favor yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP126"
+    },
+    "TEMP127": {
+        "label": "127",
+        "full": "A definite yes awaits",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP127"
+    },
+    "TEMP128": {
+        "label": "128",
+        "full": "No question, yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP128"
+    },
+    "TEMP129": {
+        "label": "129",
+        "full": "Success is certain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP129"
+    },
+    "TEMP130": {
+        "label": "130",
+        "full": "Yes, beyond doubt",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP130"
+    },
+    "TEMP131": {
+        "label": "131",
+        "full": "All will go well",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP131"
+    },
+    "TEMP132": {
+        "label": "132",
+        "full": "Yes, if you believe it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP132"
+    },
+    "TEMP133": {
+        "label": "133",
+        "full": "Positive energy surrounds it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP133"
+    },
+    "TEMP134": {
+        "label": "134",
+        "full": "Yes, without hesitation",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP134"
+    },
+    "TEMP135": {
+        "label": "135",
+        "full": "Absolutely certain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP135"
+    },
+    "TEMP136": {
+        "label": "136",
+        "full": "No question about it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP136"
+    },
+    "TEMP137": {
+        "label": "137",
+        "full": "Fate says yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP137"
+    },
+    "TEMP138": {
+        "label": "138",
+        "full": "The universe agrees",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP138"
+    },
+    "TEMP139": {
+        "label": "139",
+        "full": "Yes, indeed",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP139"
+    },
+    "TEMP140": {
+        "label": "140",
+        "full": "Undeniably yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP140"
+    },
+    "TEMP141": {
+        "label": "141",
+        "full": "Yes, it's meant to be",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP141"
+    },
+    "TEMP142": {
+        "label": "142",
+        "full": "The energy says yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP142"
+    },
+    "TEMP143": {
+        "label": "143",
+        "full": "Yes, it's written in the stars",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP143"
+    },
+    "TEMP144": {
+        "label": "144",
+        "full": "Positive outcome ahead",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP144"
+    },
+    "TEMP145": {
+        "label": "145",
+        "full": "Yes, destiny approves",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP145"
+    },
+    "TEMP146": {
+        "label": "146",
+        "full": "Absolutely guaranteed",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP146"
+    },
+    "TEMP147": {
+        "label": "147",
+        "full": "No doubt remains",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP147"
+    },
+    "TEMP148": {
+        "label": "148",
+        "full": "The universe favors you",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP148"
+    },
+    "TEMP149": {
+        "label": "149",
+        "full": "Yes, everything aligns",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP149"
+    },
+    "TEMP150": {
+        "label": "150",
+        "full": "Success is certain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP150"
+    },
+    "TEMP151": {
+        "label": "151",
+        "full": "A sure yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP151"
+    },
+    "TEMP152": {
+        "label": "152",
+        "full": "All paths lead to yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP152"
+    },
+    "TEMP153": {
+        "label": "153",
+        "full": "Yes, it's inevitable",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP153"
+    },
+    "TEMP154": {
+        "label": "154",
+        "full": "Undoubtedly true",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP154"
+    },
+    "TEMP155": {
+        "label": "155",
+        "full": "The answer shines bright — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP155"
+    },
+    "TEMP156": {
+        "label": "156",
+        "full": "Yes, success is near",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP156"
+    },
+    "TEMP157": {
+        "label": "157",
+        "full": "Yes, beyond any doubt",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP157"
+    },
+    "TEMP158": {
+        "label": "158",
+        "full": "A resounding yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP158"
+    },
+    "TEMP159": {
+        "label": "159",
+        "full": "Yes, go for it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP159"
+    },
+    "TEMP160": {
+        "label": "160",
+        "full": "The stars say yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP160"
+    },
+    "TEMP161": {
+        "label": "161",
+        "full": "No resistance ahead — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP161"
+    },
+    "TEMP162": {
+        "label": "162",
+        "full": "It's a solid yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP162"
+    },
+    "TEMP163": {
+        "label": "163",
+        "full": "Yes, and soon",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP163"
+    },
+    "TEMP164": {
+        "label": "164",
+        "full": "Yes, expect it shortly",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP164"
+    },
+    "TEMP165": {
+        "label": "165",
+        "full": "Definitely coming true",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP165"
+    },
+    "TEMP166": {
+        "label": "166",
+        "full": "Affirmative, yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP166"
+    },
+    "TEMP167": {
+        "label": "167",
+        "full": "All indications are yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP167"
+    },
+    "TEMP168": {
+        "label": "168",
+        "full": "Yes, in full confidence",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP168"
+    },
+    "TEMP169": {
+        "label": "169",
+        "full": "The path is clear — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP169"
+    },
+    "TEMP170": {
+        "label": "170",
+        "full": "It is meant to be — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP170"
+    },
+    "TEMP171": {
+        "label": "171",
+        "full": "Yes, that is the answer",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP171"
+    },
+    "TEMP172": {
+        "label": "172",
+        "full": "The answer is written in the stars",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP172"
+    },
+    "TEMP173": {
+        "label": "173",
+        "full": "Yes, success is assured",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP173"
+    },
+    "TEMP174": {
+        "label": "174",
+        "full": "A yes is in your future",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP174"
+    },
+    "TEMP175": {
+        "label": "175",
+        "full": "Fate says yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP175"
+    },
+    "TEMP176": {
+        "label": "176",
+        "full": "A sure thing — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP176"
+    },
+    "TEMP177": {
+        "label": "177",
+        "full": "Yes, things are aligning",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP177"
+    },
+    "TEMP178": {
+        "label": "178",
+        "full": "The universe approves",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP178"
+    },
+    "TEMP179": {
+        "label": "179",
+        "full": "Yes, beyond a doubt",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP179"
+    },
+    "TEMP180": {
+        "label": "180",
+        "full": "You can count on a yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP180"
+    },
+    "TEMP181": {
+        "label": "181",
+        "full": "Your answer is yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP181"
+    },
+    "TEMP182": {
+        "label": "182",
+        "full": "The odds favor you — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP182"
+    },
+    "TEMP183": {
+        "label": "183",
+        "full": "Yes, the forces are with you",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP183"
+    },
+    "TEMP184": {
+        "label": "184",
+        "full": "Your wish is granted — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP184"
+    },
+    "TEMP185": {
+        "label": "185",
+        "full": "Yes, your dreams are within reach",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP185"
+    },
+    "TEMP186": {
+        "label": "186",
+        "full": "You are destined for yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP186"
+    },
+    "TEMP187": {
+        "label": "187",
+        "full": "Yes, the door is open",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP187"
+    },
+    "TEMP188": {
+        "label": "188",
+        "full": "No obstacles ahead — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP188"
+    },
+    "TEMP189": {
+        "label": "189",
+        "full": "It’s a clear yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP189"
+    },
+    "TEMP190": {
+        "label": "190",
+        "full": "The stars have aligned for you",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP190"
+    },
+    "TEMP191": {
+        "label": "191",
+        "full": "It’s all set for yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP191"
+    },
+    "TEMP192": {
+        "label": "192",
+        "full": "Yes, you're on the right path",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP192"
+    },
+    "TEMP193": {
+        "label": "193",
+        "full": "Yes, the outcome is in your favor",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP193"
+    },
+    "TEMP194": {
+        "label": "194",
+        "full": "The answer is positive",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP194"
+    },
+    "TEMP195": {
+        "label": "195",
+        "full": "Your success is certain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP195"
+    },
+    "TEMP196": {
+        "label": "196",
+        "full": "Yes, you are destined for greatness",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP196"
+    },
+    "TEMP197": {
+        "label": "197",
+        "full": "The universe is aligned — yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP197"
+    },
+    "TEMP198": {
+        "label": "198",
+        "full": "Yes, you're ready for success",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP198"
+    },
+    "TEMP199": {
+        "label": "199",
+        "full": "Yes, all signs are clear",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP199"
+    },
+    "TEMP200": {
+        "label": "200",
+        "full": "The answer is yes, without a doubt",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP200"
+    }
+}

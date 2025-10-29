@@ -1,0 +1,67 @@
+{
+    "GAInf": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDFart": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "RANDNHIE": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "QU0SAT": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "GAKTANE": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "MURickroll": {
+        "sizeMult": 1,
+        "winMult": 100,
+        "removeFromWheel": 1
+    },
+    "GASAP": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDAlphabet": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "AIUQuiz": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDSocks": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMPS": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMTick": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDRespin": {
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 0
+    }
+}

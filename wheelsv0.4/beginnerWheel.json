@@ -1,0 +1,44 @@
+{
+    "WHPS": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "DACodename": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "DAWord": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDRespin": {
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 0
+    },
+    "PEPL": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "QUUQ": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "GABloTan": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMAJ": {
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 1
+    },
+    "JBAdder1": {},
+    "JBAdder2": {}
+}

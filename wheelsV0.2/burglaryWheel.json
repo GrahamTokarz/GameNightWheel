@@ -1,0 +1,134 @@
+{
+    "1": {
+        "label": "Cook an egg",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "2": {
+        "label": "Job Job",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "3": {
+        "label": "Guesspionage",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "4": {
+        "label": "Know What I Meme",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "5": {
+        "label": "Buzzfeed Quiz",
+        "full": "Which Lego Movie Character Are You?",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "6": {
+        "label": "GPT Game Night",
+        "full": "ChatGPT hosts... a jackbox game it makes up.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "7": {
+        "label": "???",
+        "full": "Hidden Achievement",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "hiddenAchievement",
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "8": {
+        "label": "Patriotism",
+        "full": "Sing the National Anthem",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "9": {
+        "label": "RESPIN",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "#9AB432",
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "10": {
+        "label": "SKONG?",
+        "full": "Chant SKONG for fifteen seconds.",
+        "sizeMult": 1,
+        "winMult": 4,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Burglary Wheel"
+    },
+    "11": {
+        "label": "Chaotic Wheel Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#BB6A29",
+        "wheelName": "Burglary Wheel"
+    },
+    "12": {
+        "label": "Cheese Points",
+        "full": "+1 Cheese Point",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "cheesePoint",
+        "specialColor": "#FFD966",
+        "wheelName": "Burglary Wheel"
+    }
+}

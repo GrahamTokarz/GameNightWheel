@@ -1,0 +1,112 @@
+{
+    "1": {
+        "label": "The Poll Mine",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Doom Wheel"
+    },
+    "2": {
+        "label": "YT Video",
+        "full": "Watch 5 minutes of a trending YT Video",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Doom Wheel"
+    },
+    "3": {
+        "label": "UQuiz Quiz",
+        "full": "Do a quiz from the front page of UQuiz",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Doom Wheel"
+    },
+    "4": {
+        "label": "Retaildle",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Doom Wheel"
+    },
+    "5": {
+        "label": "Restart EVERYTHING",
+        "full": "The smell of grass",
+        "sizeMult": 8,
+        "winMult": 0,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Doom Wheel"
+    },
+    "6": {
+        "label": "Trivia",
+        "full": "INCORRECTLY answer a trivia question on 18th century French politicians",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Doom Wheel"
+    },
+    "7": {
+        "label": "???",
+        "full": "YOU'VE BEEN IN A COMA! WAKE UP!!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Doom Wheel"
+    },
+    "8": {
+        "label": "Double Next",
+        "full": "Do the next thing twice!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Doom Wheel"
+    },
+    "9": {
+        "label": "Corn Joke",
+        "full": "Get a good corn joke from an AI",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Doom Wheel"
+    },
+    "10": {
+        "label": "Wheel Wheel 3",
+        "full": "Wheel Wheel 3",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel 3",
+        "specialEffect": null,
+        "specialColor": "#334433",
+        "wheelName": "Doom Wheel"
+    }
+}

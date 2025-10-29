@@ -1,0 +1,123 @@
+{
+    "1": {
+        "label": "Picross",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Toaster Wheel"
+    },
+    "2": {
+        "label": "???",
+        "full": "Play a random free steam game!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Toaster Wheel"
+    },
+    "3": {
+        "label": "Balatro",
+        "full": "Seeded Balatro SPEEDRUN",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Toaster Wheel"
+    },
+    "4": {
+        "label": "Big Timothy",
+        "full": "Ask Big Timothy for women until we get one.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Toaster Wheel"
+    },
+    "5": {
+        "label": "Change Tick Sound",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "changeTick",
+        "specialColor": "#BB0488",
+        "wheelName": "Toaster Wheel"
+    },
+    "6": {
+        "label": "Stimulation Clicker",
+        "full": "Stimulation Clicker Speedrun",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Toaster Wheel"
+    },
+    "7": {
+        "label": "Play a Fart Sound",
+        "full": "This shouldn't get landed on",
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Toaster Wheel"
+    },
+    "8": {
+        "label": "TMP2",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Toaster Wheel"
+    },
+    "9": {
+        "label": "[Something Funny]",
+        "full": "[Insert Funny Joke]",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Toaster Wheel"
+    },
+    "10": {
+        "label": "Front Door",
+        "full": "Toggle Your Front Door Lock",
+        "sizeMult": 1,
+        "winMult": 4,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Toaster Wheel"
+    },
+    "11": {
+        "label": "Chaotic Wheel Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#BB6A29",
+        "wheelName": "Toaster Wheel"
+    }
+}

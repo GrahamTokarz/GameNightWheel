@@ -1,0 +1,112 @@
+{
+    "1": {
+        "label": "Trivia",
+        "full": "CORRECTLY answer a trivia question on 17th century French politicians",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Cigar Wheel"
+    },
+    "2": {
+        "label": "Word Game!",
+        "full": "Play WOODLE",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Cigar Wheel"
+    },
+    "3": {
+        "label": "Emails",
+        "full": "Show your three most recent emails",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Cigar Wheel"
+    },
+    "4": {
+        "label": "Cheese Points",
+        "full": "+1 Cheese Point",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "cheesePoint",
+        "specialColor": "#FFD966",
+        "wheelName": "Cigar Wheel"
+    },
+    "5": {
+        "label": "Row Your Boat",
+        "full": "Sing 'Row Row Row Your Boat', in a round'",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Cigar Wheel"
+    },
+    "6": {
+        "label": "Polytopia",
+        "full": "Start a game of Polytopia",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Cigar Wheel"
+    },
+    "7": {
+        "label": "Google Doodle",
+        "full": "Play a Google Doodle game",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Cigar Wheel"
+    },
+    "8": {
+        "label": "FORBIDDEN WORDS",
+        "full": "Don't like, say this:",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Forbidden Words Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Cigar Wheel"
+    },
+    "9": {
+        "label": "Spin Again!",
+        "full": "Spin Again!",
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#9AB432",
+        "wheelName": "Cigar Wheel"
+    },
+    "10": {
+        "label": "Wheel Wheel 3",
+        "full": "Wheel Wheel 3",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel 3",
+        "specialEffect": null,
+        "specialColor": "#334433",
+        "wheelName": "Cigar Wheel"
+    }
+}

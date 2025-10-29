@@ -1,0 +1,101 @@
+{
+    "1": {
+        "label": "Quiplash XL",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "2": {
+        "label": "Putt Party",
+        "full": "1 World of Putt Party",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "3": {
+        "label": "RESPIN!",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "4": {
+        "label": "Burpees",
+        "full": "10 Burpees",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "5": {
+        "label": "Wordle",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "6": {
+        "label": "Kostimo",
+        "full": "Make a kostimo rhythm",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "7": {
+        "label": "Blather 'Round",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "8": {
+        "label": "Sporcle Quiz",
+        "full": "David picks a Sporcle Quiz",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Beginner Wheel"
+    },
+    "9": {
+        "label": "Cheese Points",
+        "full": "+1 Cheese Point",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "cheesePoint",
+        "specialColor": "#FFD966",
+        "wheelName": "Beginner Wheel"
+    }
+}

@@ -1,0 +1,101 @@
+{
+    "1": {
+        "label": "Check the rain forcast in your area",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "sliceDoubler",
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "2": {
+        "label": "James's Choice",
+        "full": "Or, more likely, nothing.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "3": {
+        "label": "Change Tick Sound!",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "changeTick",
+        "specialColor": "#BB0488",
+        "wheelName": "Spaghet Wheel"
+    },
+    "4": {
+        "label": "Champ'd Up!",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "5": {
+        "label": "DOOM SLICE",
+        "full": "+ DOOM",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "DOOM",
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "6": {
+        "label": "Mystery Dungeon Personality Test",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "addJonDm",
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "7": {
+        "label": "Magic 8 Ball",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Eight Ball Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "8": {
+        "label": "Bret Reads",
+        "full": "Bret narrates the next chapter of book book",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "9": {
+        "label": "Thanksgiving",
+        "full": "Tell everybody something you're thankful for!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    }
+}

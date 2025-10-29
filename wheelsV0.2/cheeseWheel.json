@@ -1,0 +1,35 @@
+{
+    "1": {
+        "label": "CHEESE",
+        "full": "Play 1 'crown' of Cheese Rolling",
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#FFD966",
+        "wheelName": "Cheese Wheel"
+    },
+    "2": {
+        "label": "CHEESE",
+        "full": "Write a Steam Review for Cheese Rolling",
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#FFEDC2",
+        "wheelName": "Cheese Wheel"
+    },
+    "3": {
+        "label": "CHEESE",
+        "full": "Play 1 set of LIVING CHEESE in Cheese Rolling",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#FFC94A",
+        "wheelName": "Cheese Wheel"
+    }
+}

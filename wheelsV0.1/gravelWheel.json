@@ -1,0 +1,123 @@
+{
+    "1": {
+        "label": "Horse Race",
+        "full": "Bet on a horse race, Thalia commentates",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "2": {
+        "label": "Tetr.io",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "3": {
+        "label": "Recording",
+        "full": "STOP & DELETE RECORDING",
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "4": {
+        "label": "Cube",
+        "full": "Spend three minutes, max, on a 3x3 scramble",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "5": {
+        "label": "David Story",
+        "full": "David tells us a story",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "6": {
+        "label": "Fight a boss",
+        "full": "I don't know, just do it!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "7": {
+        "label": "Cat Tax",
+        "full": "Say Hi, Jules!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "8": {
+        "label": "TMP2",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "9": {
+        "label": "SKONG BREAK!",
+        "full": "Somebody's playing SKONG!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "ShowSKONGCounter",
+        "specialColor": "#FFFFFF",
+        "wheelName": "Gravel Wheel"
+    },
+    "10": {
+        "label": "Hot Sauce",
+        "full": "Eat a spoonful of hot sauce",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "11": {
+        "label": "Chaotic Wheel Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#BB6A29",
+        "wheelName": "Gravel Wheel"
+    }
+}

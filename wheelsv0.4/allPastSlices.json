@@ -1,0 +1,705 @@
+{
+    "DAGar": {
+        "label": "Gartic Phone",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DAGar"
+    },
+    "DAWord": {
+        "label": "Wordle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DAWord"
+    },
+    "DAColo": {
+        "label": "Colonist",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DAColo"
+    },
+    "DAPP": {
+        "label": "Putt Party",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DAPP"
+    },
+    "DAKWIM": {
+        "label": "Know What I Meme",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DAKWIM"
+    },
+    "DASK": {
+        "label": "Smash Karts",
+        "full": "Play Battle Royale Smash Karts",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DASK"
+    },
+    "DALio": {
+        "label": "Land.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DALio"
+    },
+    "DASketchH": {
+        "label": "Sketch Heads",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DASketchH"
+    },
+    "DABanana": {
+        "label": "Banana of Doom",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DABanana"
+    },
+
+    "GAFeud": {
+        "label": "Google Feud",
+        "full": "Play a game of Google Feud!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAFeud"
+    },
+    "GATet": {
+        "label": "Tetr.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GATet"
+    },
+    "GAPic": {
+        "label": "Picross",
+        "full": "Play a game of Picross",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAPic"
+    },
+    "GAStim": {
+        "label": "Stimulation Clicker",
+        "full": "10 minutes of stimulation clicker",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAStim"
+    },
+    "GASteam": {
+        "label": "Free Steam Game",
+        "full": "Play a new free steam game!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GASteam"
+    },
+    "GARPS": {
+        "label": "RPS Tourney",
+        "full": "Do a Rock, Paper, Scissors tournament!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GARPS"
+    },
+    "GAAU": {
+        "label": "Among Us",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAAU"
+    },
+    "GACrab": {
+        "label": "Crab Game",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GACrab"
+    },
+    "GACheese1": {
+        "label": "Cheese Rolling",
+        "full": "Play 1 'crown' of Cheese Rolling",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#FFD966",
+        "id": "GACheese1"
+    },
+    "GALNK": {
+        "label": "LinkedIn Games",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GALNK"
+    },
+    "GASAP": {
+        "label": "Super Auto Pets",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GASAP"
+    },
+    "GADrawBatl": {
+        "label": "Draw Battle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GADrawBatl"
+    },
+    "GAUno": {
+        "label": "Uno",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAUno"
+    },
+
+    "PEJJ": {
+        "label": "Jumping Jacks",
+        "full": "25 Jumping Jacks",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "PEJJ"
+    },
+    "PEDoor": {
+        "label": "Toggle Door Lock",
+        "full": "Toggle your front door lock",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "PEDoor"
+    },
+    "PEBurp": {
+        "label": "Burpees",
+        "full": "10 Burpees",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "PEBurp"
+    },
+    "PEBalance": {
+        "label": "Balance",
+        "full": "Stand on one leg for a minute",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "PEBalance"
+    },
+
+    "RANDD100": {
+        "label": "d100",
+        "full": "Get a 69 on a d100",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDD100"
+    },
+    "RANDSilence": {
+        "label": "Moment of Silence",
+        "full": "A moment of silence for men's mental health",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDSilence"
+    },
+    "RANDScreaming": {
+        "label": "Moment of Screaming",
+        "full": "A moment of screaming for 9/11",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDScreaming"
+    },
+    "RANDHot": {
+        "label": "Hot Sauce",
+        "full": "Eat a spoonful of hot sauce",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDHot"
+    },
+    "RANDRain": {
+        "label": "Forecast",
+        "full": "Check your local rain forecast",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDRain"
+    },
+    "RANDTonsil": {
+        "label": "Tonsil Inspection",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDTonsil"
+    },
+    "RANDFunny": {
+        "label": "[Something Funny]",
+        "full": "[Insert Funny Joke]",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDFunny"
+    },
+    "RANDSkong": {
+        "label": "SKONG?",
+        "full": "Chant SKONG for fifteen seconds.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDSkong"
+    },
+    "RANDHorse": {
+        "label": "Horse Race",
+        "full": "Bet on a horse race",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDHorse"
+    },
+    "RANDPaint": {
+        "label": "Watch Paint Dry",
+        "full": "Watch paint dry for five minutes",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDPaint"
+    },
+    "RANDBT": {
+        "label": "Big Timothy",
+        "full": "Ask Big Tim for a real woman until we get one",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDBT"
+    },
+    "RANDWall": {
+        "label": "Lick the wall",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDWall"
+    },
+    "RANDVS": {
+        "label": "Venmo Simon",
+        "full": "Venmo Simon $1 (@simondaug)",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDVS"
+    },
+    "RANDPhoto": {
+        "label": "Photo Share",
+        "full": "Share the most recent photo in your phone gallery",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDPhoto"
+    },
+    "RANDMoose": {
+        "label": "Draw a Moose",
+        "full": "Five minutes, discord whiteboard. Trackpad.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDMoose"
+    },
+    "RANDChange": {
+        "label": "Outfit Change",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDChange"
+    },
+    "RANDGS": {
+        "label": "Google Search",
+        "full": "Share your most recent Google Search",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDGS"
+    },
+    "RANDSocks": {
+        "label": "Toggle Socks",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDSocks"
+    },
+    "RANDAU": {
+        "label": "Australia",
+        "full": "Take the Australian Citizenship Test",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDAU"
+    },
+    "RANDLoading": {
+        "label": "Loading",
+        "full": "-1 Funny Point to Bret",
+        "goToWheel": null,
+        "specialEffect": "loadload",
+        "specialColor": null,
+        "id": "RANDLoading"
+    },
+    "RANDCorn": {
+        "label": "Corn Joke",
+        "full": "Get a good corn joke from an AI",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDCorn"
+    },
+    "RANDHair": {
+        "label": "Braid",
+        "full": "Braid your hair",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDHair"
+    },
+    "RANDAlphabet": {
+        "label": "Alphabet of Fear",
+        "full": "As a group, name something scary that starts with each letter.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDAlphabet"
+    },
+    "RANDNHIE": {
+        "label": "Never Have I Ever",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDNHIE"
+    },
+    "RANDComa": {
+        "label": "???",
+        "full": "YOU'VE BEEN IN A COMA! WAKE UP!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDComa"
+    },
+    "RANDFart": {
+        "label": "Play a Fart Sound",
+        "full": "THIS SHOULD NOT BE LANDED ON!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDFart"
+    },
+    "RANDPoetry": {
+        "label": "Poetry",
+        "full": "Bert hosts some Poetry Night",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDPoetry"
+    },
+
+    "MUSAS": {
+        "label": "Sing 'All Star'",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "MUSAS"
+    },
+    "MUKos": {
+        "label": "Kostimo",
+        "full": "Make a kostimo rhythm",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "MUKos"
+    },
+    "MURickroll": {
+        "label": "???",
+        "full": "LOL GET REKT",
+        "goToWheel": null,
+        "specialEffect": "rickroll",
+        "specialColor": null,
+        "id": "MURickroll"
+    },
+    "MUPat": {
+        "label": "Patriotism",
+        "full": "Sing the National Anthem",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "MUPat"
+    },
+
+    "VDCeleste": {
+        "label": "Celeste Streamer",
+        "full": "Watch 5 minutes of a Celeste stremer on Twitch",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "VDCeleste"
+    },
+
+    "GRWriteEM": {
+        "label": "Email Politician",
+        "full": "Email a local politician as a group",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GRWriteEM"
+    },
+
+    "QUBuzz1": {
+        "label": "Buzzfeed Quiz [1]",
+        "full": "Which Disney Princess Are You?",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUBuzz1"
+    },
+    "QUBuzz2": {
+        "label": "Buzzfeed Quiz [2]",
+        "full": "Which Lego Movie Character Are You?",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUBuzz2"
+    },
+    "QUBuzz3": {
+        "label": "Buzzfeed Quiz [3]",
+        "full": "What drink are you?",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUBuzz3"
+    },
+    "QUFeedback": {
+        "label": "Feedback Survey",
+        "full": "Take a short feedback survey on your experience",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id":"QUFeedback"
+    },
+    "QUMD": {
+        "label": "Mystery Dungeon",
+        "full": "Take the Mystery Dungeon Personality Test",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id":"QUMD"
+    },
+    "QUSP": {
+        "label": "Sporcle Quiz",
+        "full": "Whoever added this picks a sporcle quiz",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id":"QUSP"
+    },
+    "QUMath": {
+        "label": "Math Test",
+        "full": "Three minutes. SHOW YOUR WORK!! +1 math point.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id":"QUMath"
+    },
+    "QUKahoot": {
+        "label": "Kahoot!",
+        "full": "Play a random Kahoot!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id":"QUKahoot"
+    },
+    "QUCFr": {
+        "label": "Trivia",
+        "full": "Correctly answer a question on 17th century French politicians",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUCFr"
+    },
+    "QUDriving": {
+        "label": "Driving Mistakes",
+        "full": "Take a quiz on driving mistake's you've made.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUDriving"
+    },
+
+    "PUZZRub": {
+        "label": "3x3 Cube",
+        "full": "Spend three minutes, max, on a 3x3 scramble",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "PUZZRub"
+    },
+    "PUZZSudoku": {
+        "label": "Sudoku",
+        "full": "Daily Sudoku!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "PUZZSudoku"
+    },
+
+    "NARDavid": {
+        "label": "David Story",
+        "full": "David tells us a story",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "NARDavid"
+    },
+    "NARBert": {
+        "label": "Bret Reads",
+        "full": "Bret narrates the next chapter of book",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "NARBert"
+    },
+
+    "AITMP": {
+        "label": "ChatGPT TMP",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "AITMP"
+    },
+    "AIMakeUp": {
+        "label": "GPT Makes a Jackbox Game",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "AIMakeUp"
+    },
+
+    "WH8B": {
+        "label": "Eight Ball",
+        "full": "Ask the Magic Eight Ball a question",
+        "goToWheel": "Eight Ball Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "WH8B"
+    },
+    "WHJackCF": {
+        "label": "Jackbox Game",
+        "full": "Jackbox Game Time!",
+        "goToWheel": "Jackbox Coinflip Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#479788",
+        "id": "WHJackCF"
+    },
+
+    "WHMTick": {
+        "label": "Change Tick Sound",
+        "full": null,
+        "goToWheel": "Eight Ball Wheel",
+        "specialEffect": "changeTick",
+        "specialColor": "#BB0488",
+        "id": "WHMTick"
+    },
+    "WHMConfetti": {
+        "label": "LAND ON ME!",
+        "full": "YAY!",
+        "goToWheel": null,
+        "specialEffect": "confetti",
+        "specialColor": null,
+        "id": "WHMConfetti"
+    },
+    "WHMVelocity": {
+        "label": "Decrease friction",
+        "full": "Wheel spin time increased!!",
+        "goToWheel": null,
+        "specialEffect": "velocity",
+        "specialColor": null,
+        "id": "WHMVelocity"
+    },
+
+    "SECSimon1": {
+        "label": "Simon's 1st Secret Slice",
+        "full": "i already forgot it, lets just say... watch hawk tuah video",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SECSimon1"
+    },
+    "SECJames": {
+        "label": "James's Choice",
+        "full": "James's Choice... if he's here.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SECJames"
+    },
+    "SECDavid1": {
+        "label": "David",
+        "full": "discard up to five cards from your hand and replace them with the equivalent number of cards from your deck. cards whose abilities activate when discarded cannot be activated in this manner. cards which are activated when drawn are not activated until your following turn.",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SECDavid1"
+    },
+
+    "DEEPThx": {
+        "label": "Thanksgiving",
+        "full": "Tell everybody something you're thankful for!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DEEPThx"
+    },
+    "DEEPHappy": {
+        "label": "Happiness",
+        "full": "Tell everybody something that made you smile recently",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DEEPHappy"
+    },
+    "DEEPDream": {
+        "label": "Dreams",
+        "full": "Tell everybody something you hope to acomplish",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DEEPDream"
+    }
+
+}

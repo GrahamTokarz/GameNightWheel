@@ -1,0 +1,101 @@
+{
+    "1": {
+        "label": "Photo Share",
+        "full": "Send the most recent photo in your phone gallery",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "2": {
+        "label": "James's Choice",
+        "full": "Or, more likely, nothing.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "3": {
+        "label": "Change Tick Sound!",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "changeTick",
+        "specialColor": "#BB0488",
+        "wheelName": "Spaghet Wheel"
+    },
+    "4": {
+        "label": "Draw a Moose",
+        "full": "Five minutes, discord whiteboard. Trackpad.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "5": {
+        "label": "Cheese Points",
+        "full": "+1 Cheese Point",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "cheesePoint",
+        "specialColor": "#FFD966",
+        "wheelName": "Spaghet Wheel"
+    },
+    "6": {
+        "label": "Jon DMs",
+        "full": "Jon is DMing something... Bert can explain.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "addJonDm",
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "7": {
+        "label": "Magic 8 Ball",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Eight Ball Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "8": {
+        "label": "Bret Reads",
+        "full": "Bret narrates the next chapter of book book",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    },
+    "9": {
+        "label": "Happiness",
+        "full": "Name something that made you smile recently",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Spaghet Wheel"
+    }
+}

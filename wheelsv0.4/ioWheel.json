@@ -1,0 +1,37 @@
+{
+    "IOKrunk": {
+        "winMult": 1,
+        "sizeMult": 1,
+        "removeFromWheel": 1
+    },
+    "IOAgar": {
+        "winMult": 1,
+        "sizeMult": 1,
+        "removeFromWheel": 1
+    },
+    "IODiep": {
+        "winMult": 1,
+        "sizeMult": 1,
+        "removeFromWheel": 1
+    },
+    "IODefly": {
+        "winMult": 1,
+        "sizeMult": 1,
+        "removeFromWheel": 1
+    },
+    "IOSkribbl": {
+        "winMult": 1,
+        "sizeMult": 1,
+        "removeFromWheel": 1
+    },
+    "IOSurvev": {
+        "winMult": 1,
+        "sizeMult": 1,
+        "removeFromWheel": 1
+    },
+    "IOFlorr": {
+        "winMult": 1,
+        "sizeMult": 1,
+        "removeFromWheel": 1
+    }
+}

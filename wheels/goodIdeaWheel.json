@@ -1,0 +1,24 @@
+{
+    "1": {
+        "label": "Group Suicide",
+        "full": "WAIT THIS SHOULD BE IMPOSSIBLE DON'T DO IT!",
+        "sizeMult": 150,
+        "winMult": 0,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#A82338",
+        "wheelName": "Good Idea Wheel"
+    },
+    "2": {
+        "label": "Wheel Wheel",
+        "full": "How about we just go to the wheel wheel instead?",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#EE8C4B",
+        "wheelName": "Good Idea Wheel"
+    }
+}

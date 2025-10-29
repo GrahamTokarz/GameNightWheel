@@ -1,0 +1,22 @@
+{
+    "WHJackArcade": {
+        "winMult": 12,
+        "sizeMult": 12,
+        "removeFromWheel": 0
+    },
+    "WHJackDraw": {
+        "winMult": 11,
+        "sizeMult": 11,
+        "removeFromWheel": 0
+    },
+    "WHJackPrompt": {
+        "winMult": 15,
+        "sizeMult": 15,
+        "removeFromWheel": 0
+    },
+    "WHJackTrivia": {
+        "winMult": 17,
+        "sizeMult": 17,
+        "removeFromWheel": 0
+    }
+}

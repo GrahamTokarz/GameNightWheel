@@ -1,0 +1,189 @@
+{
+    "1": {
+        "label": "Attack of the Killer Tomatoes",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "2": {
+        "label": "Rubber",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "3": {
+        "label": "Swiss Army Man",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "4": {
+        "label": "Barbarella",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "5": {
+        "label": "The Lobster",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "6": {
+        "label": "Greasy Strangler",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "7": {
+        "label": "Fantastic Planet",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "8": {
+        "label": "Hausu",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "9": {
+        "label": "Sorry to Bother You",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "10": {
+        "label": "Velocipastor",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "11": {
+        "label": "Beetlejuice",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "12": {
+        "label": "Cats",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "13": {
+        "label": "Troll 2",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "14": {
+        "label": "Kung Fury",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "15": {
+        "label": "Everything Everywhere All at Once",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "16": {
+        "label": "Play a Fart Sound",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    },
+    "17": {
+        "label": "Play a Fart Sound",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Jackbox Wheel"
+    }
+}

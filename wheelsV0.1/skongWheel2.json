@@ -1,0 +1,57 @@
+{
+    "1": {
+        "label": "Celeste",
+        "full": "Watch 5 minutes of a random Celeste streamer on Twitch",
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Skong Wheel 2"
+    },
+    "2": {
+        "label": "Chaotic Wheel Wheel",
+        "full": null,
+        "sizeMult": 2,
+        "winMult": 3,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#BB6A29",
+        "wheelName": "Skong Wheel 2"
+    },
+    "3": {
+        "label": "Toggle SKONG Counter",
+        "full": "But wait, does that mean it's on or off?",
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "toggleSKONG",
+        "specialColor": "#AA2299",
+        "wheelName": "Skong Wheel 2"
+    },
+    "4": {
+        "label": "SKONG TIME!",
+        "full": "Somebody's playing SKONG!",
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "ShowSKONGCounter",
+        "specialColor": "#FFFFFF",
+        "wheelName": "Skong Wheel 2"
+    },
+    "5": {
+        "label": "Outfit Change",
+        "full": "Change Clothing!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Skong Wheel 2"
+    }
+}

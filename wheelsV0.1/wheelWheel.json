@@ -1,0 +1,46 @@
+{
+    "1": {
+        "label": "SKONG WHEEL 1",
+        "full": "SKONG SKONG SKONG",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Skong Wheel 1",
+        "specialEffect": null,
+        "specialColor": "#FFFFFF",
+        "wheelName": "Wheel Wheel"
+    },
+    "2": {
+        "label": "Wheel Modification Wheel",
+        "full": "Let's change things up a bit",
+        "sizeMult": 1,
+        "winMult": 4,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Modification Wheel",
+        "specialEffect": null,
+        "specialColor": "#31A24F",
+        "wheelName": "Wheel Wheel"
+    },
+    "3": {
+        "label": "Beginner Wheel",
+        "full": "Beginner Wheel Time!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Beginner Wheel",
+        "specialEffect": null,
+        "specialColor": "#9B62F2",
+        "wheelName": "Wheel Wheel"
+    },
+    "4": {
+        "label": "Game Wheel",
+        "full": "Because Game Night",
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "Game Wheel",
+        "specialEffect": null,
+        "specialColor": "#6AB8E0",
+        "wheelName": "Wheel Wheel"
+    }
+}

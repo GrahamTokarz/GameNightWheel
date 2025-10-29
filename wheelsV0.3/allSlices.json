@@ -1,0 +1,1723 @@
+{
+    "JBP1G1": {
+        "label": "YDKJ 2015",
+        "full": "You Don't Know Jack 2015",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G1"
+    },
+    "JBP1G2": {
+        "label": "Drawful",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G2"
+    },
+    "JBP1G3": {
+        "label": "Word Spud",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G3"
+    },
+    "JBP1G4": {
+        "label": "Lie Swatter",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G4"
+    },
+    "JBP1G5": {
+        "label": "FibbageXL",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP1G5"
+    },
+    "JBPSG1": {
+        "label": "Drawful 2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBPSG1"
+    },
+    "JBP2G1": {
+        "label": "Fibbage 2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G1"
+    },
+    "JBP2G2": {
+        "label": "Earwax",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G2"
+    },
+    "JBP2G3": {
+        "label": "Bidiots",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G3"
+    },
+    "JBP2G4": {
+        "label": "QuiplashXL",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G4"
+    },
+    "JBP2G5": {
+        "label": "Bomb Corp.",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP2G5"
+    },
+    "JBP3G1": {
+        "label": "Quiplash 2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G1"
+    },
+    "JBP3G2": {
+        "label": "TMP",
+        "full": "Trivia Murder Party",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G2"
+    },
+    "JBP3G3": {
+        "label": "Guesspionage",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G3"
+    },
+    "JBP3G4": {
+        "label": "Fakin' It",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G4"
+    },
+    "JBP3G5": {
+        "label": "Tee K.O.",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP3G5"
+    },
+    "JBP4G1": {
+        "label": "Fibbage 3",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G1"
+    },
+    "JBP4G1.5": {
+        "label": "Fibbage 3",
+        "full": "Fibbage 3: Enough About You",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G1.5"
+    },
+    "JBP4G2": {
+        "label": "Survive the Internet",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G2"
+    },
+    "JBP4G3": {
+        "label": "Monster Seeking Monster",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G3"
+    },
+    "JBP4G4": {
+        "label": "Bracketeering",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G4"
+    },
+    "JBP4G5": {
+        "label": "Civic Doodle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP4G5"
+    },
+    "JBP5G1": {
+        "label": "YDKJ Full Stream",
+        "full": "You Don't Know Jack Full Stream",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G1"
+    },
+    "JBP5G2": {
+        "label": "Split the Room",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G2"
+    },
+    "JBP5G3": {
+        "label": "Mad Verse City",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G3"
+    },
+    "JBP5G4": {
+        "label": "Zeeple Dome",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G4"
+    },
+    "JBP5G5": {
+        "label": "Patently Stupid",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP5G5"
+    },
+    "JBP6G1": {
+        "label": "TMP2",
+        "full": "Trivia Murder Party 2",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G1"
+    },
+    "JBP6G2": {
+        "label": "Role Models",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G2"
+    },
+    "JBP6G3": {
+        "label": "Joke Boat",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G3"
+    },
+    "JBP6G4": {
+        "label": "Dictionarium",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G4"
+    },
+    "JBP6G5": {
+        "label": "Push the Button",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP6G5"
+    },
+    "JBP7G1": {
+        "label": "Quiplash 3",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G1"
+    },
+    "JBP7G2": {
+        "label": "Devils",
+        "full": "The Devils and the Details",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G2"
+    },
+    "JBP7G3": {
+        "label": "Champed Up",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G3"
+    },
+    "JBP7G4": {
+        "label": "Talking Points",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G4"
+    },
+    "JBP7G5": {
+        "label": "Blather 'Round",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP7G5"
+    },
+    "JBP8G1": {
+        "label": "Drawful Animate",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G1"
+    },
+    "JBP8G2": {
+        "label": "The Wheel",
+        "full": "The Wheel of Enormous Proportions",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G2"
+    },
+    "JBP8G3": {
+        "label": "Job Job",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G3"
+    },
+    "JBP8G4": {
+        "label": "The Poll Mine",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G4"
+    },
+    "JBP8G5": {
+        "label": "Weapons Drawn",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP8G5"
+    },
+    "JBP9G1": {
+        "label": "Fibbage 4",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G1"
+    },
+    "JBP9G1.5": {
+        "label": "Fibbage 4",
+        "full": "Fibbage 4: Enough About You",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G1.5"
+    },
+    "JBP9G2": {
+        "label": "Roomerang",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G2"
+    },
+    "JBP9G3": {
+        "label": "Junktopia",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G3"
+    },
+    "JBP9G4": {
+        "label": "Nonsensory",
+        "full": "The 4 Game",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G4"
+    },
+    "JBP9G5": {
+        "label": "Quixort",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G5"
+    },
+    "JBP9G5.5": {
+        "label": "Quixort",
+        "full": "Quixort Infinite",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP9G5.5"
+    },
+    "JBP10G1": {
+        "label": "Tee K.O. 2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G1"
+    },
+    "JBP10G2": {
+        "label": "Timejinx",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G2"
+    },
+    "JBP10G3": {
+        "label": "FixyText",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G3"
+    },
+    "JBP10G4": {
+        "label": "Dodo Re Mi",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G4"
+    },
+    "JBP10G5": {
+        "label": "Hypnotorious",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBP10G5"
+    },
+    "JBPSG2": {
+        "label": "Survey Scramble",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "JBPSG2"
+    },
+
+
+    "PEW1": {
+        "label": "Get Liquids!",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW1"
+    },
+    "PEW2": {
+        "label": "3 Minute Wall Sit",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW2"
+    },
+    "PEW3": {
+        "label": "2 Minute Plank",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW3"
+    },
+    "PEW4": {
+        "label": "30 Burpees",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW4"
+    },
+    "PEW5": {
+        "label": "90 Second Squat",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW5"
+    },
+    "PEW6": {
+        "label": "100 Jumping Jacks",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW6"
+    },
+    "PEW7": {
+        "label": "Stretch & Share",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW7"
+    },
+    "PEW8": {
+        "label": "2 Minutes o' High Knees",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PEW8"
+    },
+
+    "SPEWP1": {
+        "label": "Simon",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP1"
+    },
+    "SPEWP2": {
+        "label": "Jon",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP2"
+    },
+    "SPEWP3": {
+        "label": "Thalia",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP3"
+    },
+    "SPEWP4": {
+        "label": "Trinta",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP4"
+    },
+    "SPEWP5": {
+        "label": "Sanjay",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP5"
+    },
+    "SPEWP6": {
+        "label": "David",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP6"
+    },
+    "SPEWP7": {
+        "label": "Bret",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP7"
+    },
+    "SPEWP8": {
+        "label": "Matthew",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP8"
+    },
+    "SPEWP9": {
+        "label": "Sam",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP9"
+    },
+    "SPEWP10": {
+        "label": "Voosh",
+        "full": null,
+        "goToWheel": "How Much Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SPEWP10"
+    },
+    "SPEWH1": {
+        "label": "$0",
+        "full": "Sanjay pays everyone $0!!",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH1"
+    },
+    "SPEWH2": {
+        "label": "$0.01",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH2"
+    },
+    "SPEWH3": {
+        "label": "$0.50",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH3"
+    },
+    "SPEWH4": {
+        "label": "$1",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH4"
+    },
+    "SPEWH5": {
+        "label": "$2",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH5"
+    },
+    "SPEWH6": {
+        "label": "$4",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH6"
+    },
+    "SPEWH7": {
+        "label": "1/n of bank balance",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SPEWH7"
+    },
+
+    "EWNW1": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW1"
+    },
+    "EWNW2": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW2"
+    },
+    "EWNW3": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW3"
+    },
+    "EWNW4": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW4"
+    },
+    "EWNW5": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW5"
+    },
+    "EWNW6": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW6"
+    },
+    "EWNW7": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW7"
+    },
+    "EWNW8": {
+        "label": "Don't End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": "#420069",
+        "id": "EWNW8"
+    },
+    "EWNW9": {
+        "label": "End Wheel Night",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": "endNight",
+        "specialColor": "#0ABBA0",
+        "id": "EWNW9"
+    },
+    
+    "EB1": {
+        "label": "???",
+        "full": "It is certain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB1"
+    },
+    "EB2": {
+        "label": "???",
+        "full": "It is decidedly so",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB2"
+    },
+    "EB3": {
+        "label": "???",
+        "full": "Without a doubt",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB3"
+    },
+    "EB4": {
+        "label": "???",
+        "full": "Yes definitely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB4"
+    },
+    "EB5": {
+        "label": "???",
+        "full": "You may rely on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB5"
+    },
+    "EB6": {
+        "label": "???",
+        "full": "As I see it, yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB6"
+    },
+    "EB7": {
+        "label": "???",
+        "full": "Most likely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB7"
+    },
+    "EB8": {
+        "label": "???",
+        "full": "Outlook good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB8"
+    },
+    "EB9": {
+        "label": "???",
+        "full": "Yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB9"
+    },
+    "EB10": {
+        "label": "???",
+        "full": "Signs point to yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB10"
+    },
+    "EB11": {
+        "label": "???",
+        "full": "Reply hazy, try again",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB11"
+    },
+    "EB12": {
+        "label": "???",
+        "full": "Ask again later",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB12"
+    },
+    "EB13": {
+        "label": "???",
+        "full": "Better not tell you now",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB13"
+    },
+    "EB14": {
+        "label": "???",
+        "full": "Cannot predict now",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB14"
+    },
+    "EB15": {
+        "label": "???",
+        "full": "Concentrate and ask again",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB15"
+    },
+    "EB16": {
+        "label": "???",
+        "full": "Don't count on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB16"
+    },
+    "EB17": {
+        "label": "???",
+        "full": "My reply is no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB17"
+    },
+    "EB18": {
+        "label": "???",
+        "full": "My sources say no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB18"
+    },
+    "EB19": {
+        "label": "???",
+        "full": "Outlook not so good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB19"
+    },
+    "EB20": {
+        "label": "???",
+        "full": "Very doubtful",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "EB20"
+    },
+
+    
+    
+
+    "SECSimon2": {
+        "label": "Simon",
+        "full": "turn on timmothy so i can talk to him",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SECSimon2"
+    },
+    "SECTrinta": {
+        "label": "Trinta",
+        "full": "fursona RP",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SECTrinta"
+    },
+    "SECJon": {
+        "label": "Jon",
+        "full": "give someone a catchphrase they have to use at the end of every sentence",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SECJon"
+    },
+    "SECDavid": {
+        "label": "David",
+        "full": "discard up to five cards from your hand and replace them with the equivalent number of cards from your deck. cards whose abilities activate when discarded cannot be activated in this manner. cards which are activated when drawn are not activated until your following turn.",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SECDavid"
+    },
+    "SECBert": {
+        "label": "Bret",
+        "full": "I was told not to look.",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "SECBert"
+    },
+    "SECThalia": {
+        "label": "Thalia",
+        "full": "+ chance to add Zeeple Dome slice every spin",
+        "goToWheel": null,
+        "specialEffect": "thaliaSpecialSlice",
+        "specialColor": null,
+        "id": "SECThalia"
+    },
+    "SECJames": {
+        "label": "James's Choice",
+        "full": "James's Choice... if he's here.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "SECJames"
+    },
+
+    "PWFunnyM": {
+        "label": "- Funny Points",
+        "full": "-1000 Funny Points from Bret",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PWFunnyM"
+    },
+
+    "PWFunnyP": {
+        "label": "+ Funny Points",
+        "full": "+10 Funny Points to David",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PWFunnyP"
+    },
+    "PWGener": {
+        "label": "+ Generousity Points",
+        "full": "+1 Generousity Point to Barack Obama",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "PWGener"
+    },
+
+
+
+
+    "DAWord": {
+        "label": "Wordle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DAWord"
+    },
+    "DALio": {
+        "label": "Land.io",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DALio"
+    },
+    "DASketchH": {
+        "label": "Sketch Heads",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DASketchH"
+    },
+    "DABanana": {
+        "label": "Banana of Doom",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DABanana"
+    },
+
+    "GAUno": {
+        "label": "Uno",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAUno"
+    },
+    "GASudoku": {
+        "label": "Sudoku",
+        "full": "Daily Sudoku!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GASudoku"
+    },
+    "GACheese1": {
+        "label": "Cheese Rolling",
+        "full": "Play 1 'crown' of Cheese Rolling",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#FFD966",
+        "id": "GACheese1"
+    },
+    "GACheese2": {
+        "label": "Cheese Rolling",
+        "full": "Play 1 set of LIVING CHEESE in Cheese Rolling",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#FFC94A",
+        "id": "GACheese2"
+    },
+    "GALNK": {
+        "label": "LinkedIn Games",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GALNK"
+    },
+    "GARetail": {
+        "label": "Retaildle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GARetail"
+    },
+    "GADrawBatl": {
+        "label": "Draw Battle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GADrawBatl"
+    },
+    "GAWood": {
+        "label": "Woodle",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAWood"
+    },
+    "GAWiki": {
+        "label": "Wiki Race",
+        "full": "Wikipedia Race: Wheel -> Night",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAWiki"
+    },
+    "GASteam": {
+        "label": "???",
+        "full": "Play a new free steam game!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GASteam"
+    },
+    "GAInf": {
+        "label": "Infinite Craft",
+        "full": "Get Wheel in Infinite Craft",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAInf"
+    },
+    "GAKTANE": {
+        "label": "KTaNE",
+        "full": "Keep Talking and Nobody Explodes",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GAKTANE"
+    },
+    "GASAP": {
+        "label": "Super Auto Pets",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GASAP"
+    },
+
+
+    "PEBalance": {
+        "label": "Balance",
+        "full": "Stand on one leg for a minute",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "PEBalance"
+    },
+
+    "RANDRespin": {
+        "label": "Respin!",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDRespin"
+    },
+    "RANDPoetry": {
+        "label": "Poetry",
+        "full": "Bert hosts some Poetry Night",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDPoetry"
+    },
+    "RANDHair": {
+        "label": "Braid",
+        "full": "Braid your hair",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDHair"
+    },
+    "RANDGS": {
+        "label": "Google Search",
+        "full": "Share your most recent Google Search",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDGS"
+    },
+    "RANDSocks": {
+        "label": "Toggle Socks",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDSocks"
+    },
+    "RANDAU": {
+        "label": "Australia",
+        "full": "Take the Australian Citizenship Test",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDAU"
+    },
+    "RANDLoading": {
+        "label": "Loading",
+        "full": "-1 Funny Point to Bret",
+        "goToWheel": null,
+        "specialEffect": "loadload",
+        "specialColor": null,
+        "id": "RANDLoading"
+    },
+    "RANDCorn": {
+        "label": "Corn Joke",
+        "full": "Get a good corn joke from an AI",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDCorn"
+    },
+    "RANDComa": {
+        "label": "???",
+        "full": "YOU'VE BEEN IN A COMA! WAKE UP!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDComa"
+    },
+    "RANDFart": {
+        "label": "Play a Fart Sound",
+        "full": "THIS SHOULD NOT BE LANDED ON!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDFart"
+    },
+    "RANDNHIE": {
+        "label": "Never Have I Ever",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDNHIE"
+    },
+    "RANDAlphabet": {
+        "label": "Alphabet of Fear",
+        "full": "As a group, name something scary that starts with each letter.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "RANDAlphabet"
+    },
+
+    "MUPat": {
+        "label": "Patriotism",
+        "full": "Sing the National Anthem",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "MUPat"
+    },
+    "MUHFM": {
+        "label": "Hangout.fm",
+        "full": "Start a Hangout.fm Room",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "MUHFM"
+    },
+    "MURickroll": {
+        "label": "???",
+        "full": "LOL GET REKT",
+        "goToWheel": null,
+        "specialEffect": "rickroll",
+        "specialColor": null,
+        "id": "MURickroll"
+    },
+
+    "GRWriteTR": {
+        "label": "Email the President",
+        "full": "Email Trump. Everyone gets one line.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GRWriteTR"
+    },
+    "GRAnnounce": {
+        "label": "Write an annoucement",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "GRAnnounce"
+    },
+
+    "QUUQ": {
+        "label": "UQuiz",
+        "full": "Take a quiz from the UQuiz front page",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id":"QUUQ"
+    },
+    "QUBuzz3": {
+        "label": "Buzzfeed Quiz",
+        "full": "What drink are you?",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUBuzz3"
+    },
+    "QUIFr": {
+        "label": "Trivia",
+        "full": "Incorrectly answer a question on 17th century French politicians",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUIFr"
+    },
+    "QUCFr": {
+        "label": "Trivia",
+        "full": "Correctly answer a question on 17th century French politicians",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUCFr"
+    },
+    "QUDriving": {
+        "label": "Driving Mistakes",
+        "full": "Take a quiz on driving mistake's you've made.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QUDriving"
+    },
+    "QU0SAT": {
+        "label": "SAT Prep",
+        "full": "Get a 0 on an SAT Practice Exam.",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "QU0SAT"
+    },
+
+    "NARDavid": {
+        "label": "David Story",
+        "full": "David tells us a story",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "NARDavid"
+    },
+
+    "AIUQuiz": {
+        "label": "ChatGPT Personality Test",
+        "full": null,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "AIUQuiz"
+    },
+
+    "WH8B": {
+        "label": "Eight Ball",
+        "full": "Ask the Magic Eight Ball a question",
+        "goToWheel": "Eight Ball Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": null,
+        "id": "WH8B"
+    },
+    "WHSec": {
+        "label": "Secret Wheel",
+        "full": "Do somebody's secret activity",
+        "goToWheel": "Secret Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#625391",
+        "id": "WHSec"
+    },
+    "WHJackCF": {
+        "label": "Jackbox Game",
+        "full": "Jackbox Game Time!",
+        "goToWheel": "Jackbox Coinflip Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#479788",
+        "id": "WHJackCF"
+    },
+    "WHJackHeads": {
+        "label": "Heads",
+        "full": "Sort by type!",
+        "goToWheel": "Jackbox Types Wheel",
+        "specialEffect": null,
+        "specialColor": "#000000",
+        "id": "WHJackHeads"
+    },
+    "WHJackTails": {
+        "label": "Tails",
+        "full": "Sort by rating!",
+        "goToWheel": "Jackbox Ratings Wheel",
+        "specialEffect": null,
+        "specialColor": "#FFFFFF",
+        "id": "WHJackTails"
+    },
+    "WHJackLow": {
+        "label": "Low",
+        "full": "Low rated game!",
+        "goToWheel": "Low Rated Jackbox Wheel",
+        "specialEffect": null,
+        "specialColor": "#FF0000",
+        "id": "WHJackLow"
+    },
+    "WHJackMid": {
+        "label": "Mid",
+        "full": "Mid rated game!",
+        "goToWheel": "Mid Rated Jackbox Wheel",
+        "specialEffect": null,
+        "specialColor": "#0000FF",
+        "id": "WHJackMid"
+    },
+    "WHJackHigh": {
+        "label": "High",
+        "full": "High rated game!",
+        "goToWheel": "High Rated Jackbox Wheel",
+        "specialEffect": null,
+        "specialColor": "#00FF00",
+        "id": "WHJackHigh"
+    },
+    "WHJackArcade": {
+        "label": "Arcade",
+        "full": "'Arcade' type game!",
+        "goToWheel": "Jackbox Arcade Games Wheel",
+        "specialEffect": null,
+        "specialColor": "#F0F000",
+        "id": "WHJackArcade"
+    },
+    "WHJackDraw": {
+        "label": "Drawing",
+        "full": "Drawing game!",
+        "goToWheel": "Jackbox Drawing Games Wheel",
+        "specialEffect": null,
+        "specialColor": "#00F0F0",
+        "id": "WHJackDraw"
+    },
+    "WHJackPrompt": {
+        "label": "Prompt",
+        "full": "Prompt based game!",
+        "goToWheel": "Jackbox Prompt Games Wheel",
+        "specialEffect": null,
+        "specialColor": "#000FF0",
+        "id": "WHJackPrompt"
+    },
+    "WHJackTrivia": {
+        "label": "Trivia",
+        "full": "Trivia game!",
+        "goToWheel": "Jackbox Trivia Games Wheel",
+        "specialEffect": null,
+        "specialColor": "#F000F0",
+        "id": "WHJackTrivia"
+    },
+    "WHWH": {
+        "label": "Wheel Wheel",
+        "full": "GO TO THE WHEEL WHEEL!",
+        "goToWheel": "Wheel Wheel",
+        "specialEffect": "unlockCurrency",
+        "specialColor": "#EE8C4B",
+        "id": "WHWH"
+    },
+    "WHEWN": {
+        "label": "End Wheel Night Wheel",
+        "full": null,
+        "goToWheel": "End Wheel Night Wheel",
+        "specialEffect": null,
+        "specialColor": "#942B08",
+        "id": "WHEWN"      
+    },
+    "WHCig": {
+        "label": "Cigar Wheel",
+        "full": null,
+        "goToWheel": "Cigar Wheel",
+        "specialEffect": null,
+        "specialColor": "#927385",
+        "id": "WHCig"
+    },
+    "WHPaySome": {
+        "label": "Payment Wheel",
+        "full": "Somebody pays everyone here",
+        "goToWheel": "Who's Paying Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#2734E3",
+        "id": "WHPaySome"
+    },
+    "WHMurica": {
+        "label": "America Wheel",
+        "full": null,
+        "goToWheel": "America Wheel",
+        "specialEffect": null,
+        "specialColor": "#D91012",
+        "id": "WHMurica"
+    },
+    "WHPE": {
+        "label": "Physical Activity Wheel",
+        "full": "PHYSICAL ACTIVITY TIME!",
+        "goToWheel": "Physical Activity Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#36B989",
+        "id": "WHPE"
+    },
+    "WHEFW": {
+        "label": "Everyone's Favorite Wheel",
+        "full": null,
+        "goToWheel": "Everyone's Favorite Wheel",
+        "specialEffect": null,
+        "specialColor": "#5459A8",
+        "id": "WHEFW"
+    },
+    "WHPoints": {
+        "label": "Points Wheel",
+        "full": null,
+        "goToWheel": "Points Wheel",
+        "specialEffect": "setCallback",
+        "specialColor": "#BB8236",
+        "id": "WHPoints"
+    },
+    "WHMag": {
+        "label": "Ceaseless Watcher Wheel",
+        "full": null,
+        "goToWheel": "Ceaseless Watcher Wheel",
+        "specialEffect": null,
+        "specialColor": "#117b4e",
+        "id": "WHMag"
+    },
+    "WHEAFW": {
+        "label": "Everyone's Actual Favorite Wheel",
+        "full": null,
+        "goToWheel": "Everyone's Actual Favorite Wheel",
+        "specialEffect": null,
+        "specialColor": "#DEC93E",
+        "id": "WHEAFW"      
+    },
+
+    "WHMPS": {
+        "label": "Add Past Slice",
+        "full": "Add a slice from a past week",
+        "goToWheel": null,
+        "specialEffect": "pastSlice",
+        "specialColor": "#AA3590",
+        "id": "WHMPS"
+    },
+    "WHMSC": {
+        "label": "Change Colors",
+        "full": "Change Wheel Color Scheme",
+        "goToWheel": null,
+        "specialEffect": "wheelColors",
+        "specialColor": "#90AA35",
+        "id": "WHMSC"
+    },
+    "WHMConfetti": {
+        "label": "LAND ON ME!",
+        "full": "YAY!",
+        "goToWheel": null,
+        "specialEffect": "confetti",
+        "specialColor": null,
+        "id": "WHMConfetti"
+    },
+    "WHMVelocity": {
+        "label": "Decrease friction",
+        "full": "Wheel spin time increased!!",
+        "goToWheel": null,
+        "specialEffect": "velocity",
+        "specialColor": null,
+        "id": "WHMVelocity"
+    },
+    "WHMTick": {
+        "label": "Change Tick Sound",
+        "full": null,
+        "goToWheel": "Eight Ball Wheel",
+        "specialEffect": "changeTick",
+        "specialColor": "#BB0488",
+        "id": "WHMTick"
+    },
+
+
+    "DEEPDream": {
+        "label": "Dreams",
+        "full": "Tell everybody something you hope to acomplish",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "id": "DEEPDream"
+    },
+
+
+
+
+    "THZEEP": {
+        "label": "Zeeple Dome!",
+        "full": "WE'RE PLAYING ZEEPLE DOME!",
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": "#EF3FC9",
+        "id": "THZEEP"           
+    },
+    
+    "TEMP1": {
+        "label": "1",
+        "full": "It is certain",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP1"
+    },
+    "TEMP2": {
+        "label": "2",
+        "full": "It is decidedly so",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP2"
+    },
+    "TEMP3": {
+        "label": "3",
+        "full": "Without a doubt",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP3"
+    },
+    "TEMP4": {
+        "label": "4",
+        "full": "Yes definitely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP4"
+    },
+    "TEMP5": {
+        "label": "5",
+        "full": "You may rely on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP5"
+    },
+    "TEMP6": {
+        "label": "6",
+        "full": "As I see it, yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP6"
+    },
+    "TEMP7": {
+        "label": "7",
+        "full": "Most likely",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP7"
+    },
+    "TEMP8": {
+        "label": "8",
+        "full": "Outlook good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP8"
+    },
+    "TEMP9": {
+        "label": "9",
+        "full": "Yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP9"
+    },
+    "TEMP10": {
+        "label": "10",
+        "full": "Signs point to yes",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP10"
+    },
+    "TEMP11": {
+        "label": "11",
+        "full": "Reply hazy, try again",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP11"
+    },
+    "TEMP12": {
+        "label": "12",
+        "full": "Ask again later",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP12"
+    },
+    "TEMP13": {
+        "label": "13",
+        "full": "Better not tell you now",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP13"
+    },
+    "TEMP14": {
+        "label": "14",
+        "full": "Cannot predict now",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP14"
+    },
+    "TEMP15": {
+        "label": "15",
+        "full": "Concentrate and ask again",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP15"
+    },
+    "TEMP16": {
+        "label": "16",
+        "full": "Don't count on it",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP16"
+    },
+    "TEMP17": {
+        "label": "17",
+        "full": "My reply is no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP17"
+    },
+    "TEMP18": {
+        "label": "18",
+        "full": "My sources say no",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP18"
+    },
+    "TEMP19": {
+        "label": "19",
+        "full": "Outlook not so good",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP19"
+    },
+    "TEMP20": {
+        "label": "20",
+        "full": "Very doubtful",
+        "goToWheel": null,
+        "specialEffect": "performCallback",
+        "specialColor": null,
+        "id": "TEMP20"
+    }
+}

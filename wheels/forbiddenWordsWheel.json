@@ -1,0 +1,90 @@
+{
+    "1": {
+        "label": "Land",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Forbidden Words Wheel"
+    },
+    "2": {
+        "label": "Fish",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Forbidden Words Wheel"
+    },
+    "3": {
+        "label": "Water",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Forbidden Words Wheel"
+    },
+    "4": {
+        "label": "Again",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Forbidden Words Wheel"
+    },
+    "5": {
+        "label": "Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Forbidden Words Wheel"
+    },
+    "6": {
+        "label": "Doom",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Forbidden Words Wheel"
+    },
+    "7": {
+        "label": "Fun",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Forbidden Words Wheel"
+    },
+    "8": {
+        "label": "Spin",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Forbidden Words Wheel"
+    }
+}

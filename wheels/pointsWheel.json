@@ -1,0 +1,35 @@
+{
+    "1": {
+        "label": "- Funny Points",
+        "full": "-1000 Funny Points from Bret",
+        "sizeMult": 5,
+        "winMult": 5,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Points Wheel"
+    },
+    "2": {
+        "label": "+ Funny Points",
+        "full": "+10 Funny Points to David",
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Points Wheel"
+    },
+    "3": {
+        "label": "+ Generousity Points",
+        "full": "+1 Generousity Point to Barack Obama",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel 3",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Points Wheel"
+    }
+}

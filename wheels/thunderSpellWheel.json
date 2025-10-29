@@ -1,0 +1,68 @@
+{
+    "1": {
+        "label": "Draw SKONG in paint",
+        "full": "Draw SKONG in paint in 2 minutes",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "2": {
+        "label": "Fakin' It",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "3": {
+        "label": "Celeste",
+        "full": "Watch 5 minutes of a random Celeste streamer on Twitch",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "4": {
+        "label": "Cheese Points",
+        "full": "+1 Cheese Point",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "cheesePoint",
+        "specialColor": "#FFD966",
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "5": {
+        "label": "Outfit Change",
+        "full": "Change Clothing!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    },
+    "6": {
+        "label": "Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Thunder Spell Wheel"
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "SPEWH1": {
+        "sizeMult": 1,
+        "winMult": 100,
+        "removeFromWheel": 0
+    },
+    "SPEWH2": {
+        "sizeMult": 5,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWH3": {
+        "sizeMult": 10,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWH4": {
+        "sizeMult": 6,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWH5": {
+        "sizeMult": 4,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWH6": {
+        "sizeMult": 2,
+        "winMult": 0,
+        "removeFromWheel": 0
+    },
+    "SPEWH7": {
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 0
+    }
+}

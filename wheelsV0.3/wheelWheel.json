@@ -1,0 +1,17 @@
+{
+    "WHCig": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "WHEFW": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "WHMag": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    }
+}

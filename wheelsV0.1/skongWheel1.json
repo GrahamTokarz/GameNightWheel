@@ -1,0 +1,57 @@
+{
+    "1": {
+        "label": "Flip a SKONG Coin",
+        "full": "Flip a SKONG Coin, Get 5 Total Heads",
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Skong Wheel 1"
+    },
+    "2": {
+        "label": "Wheel Wheel",
+        "full": "BaCK TO WHEEL WHEEL",
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#EE8C4B",
+        "wheelName": "Skong Wheel 1"
+    },
+    "3": {
+        "label": "Toggle SKONG Counter",
+        "full": "But wait, does that mean it's on or off?",
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "toggleSKONG",
+        "specialColor": "#AA2299",
+        "wheelName": "Skong Wheel 1"
+    },
+    "4": {
+        "label": "SKONG TIME!",
+        "full": "Somebody's playing SKONG!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "ShowSKONGCounter",
+        "specialColor": "#FFFFFF",
+        "wheelName": "Skong Wheel 1"
+    },
+    "5": {
+        "label": "Draw SKONG in paint",
+        "full": "Draw SKONG in paint in 2 minutes",
+        "sizeMult": 3,
+        "winMult": 3,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Skong Wheel 1"
+    }
+}

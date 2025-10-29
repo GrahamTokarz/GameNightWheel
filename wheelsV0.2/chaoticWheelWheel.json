@@ -1,0 +1,68 @@
+{
+    "1": {
+        "label": "Secret Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Secret Wheel",
+        "specialEffect": null,
+        "specialColor": "#625391",
+        "wheelName": "Chaotic Wheel Wheel"
+    },
+    "2": {
+        "label": "Spaghet Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 4,
+        "removeFromWheel": 0,
+        "goToWheel": "Spaghet Wheel",
+        "specialEffect": null,
+        "specialColor": "#1283B3",
+        "wheelName": "Chaotic Wheel Wheel"
+    },
+    "3": {
+        "label": "Burglary Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "Burglary Wheel",
+        "specialEffect": null,
+        "specialColor": "#228B22",
+        "wheelName": "Chaotic Wheel Wheel"
+    },
+    "4": {
+        "label": "Toaster Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "Toaster Wheel",
+        "specialEffect": null,
+        "specialColor": "#FF4500",
+        "wheelName": "Chaotic Wheel Wheel"
+    },
+    "5": {
+        "label": "Gravel Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "Gravel Wheel",
+        "specialEffect": null,
+        "specialColor": "#6A5ACD",
+        "wheelName": "Chaotic Wheel Wheel"
+    },
+    "6": {
+        "label": "Wheel Wheel 3??",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel 3",
+        "specialEffect": null,
+        "specialColor": "#334433",
+        "wheelName": "Chaotic Wheel Wheel"
+    }
+}

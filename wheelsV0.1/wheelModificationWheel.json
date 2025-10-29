@@ -1,0 +1,57 @@
+{
+   "1": {
+        "label": "Toggle SKONG Counter",
+        "full": "But wait, does that mean it's on or off?",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "toggleSKONG",
+        "specialColor": "#AA2299",
+        "wheelName": "Wheel Modification Wheel"
+    },
+    "2": {
+        "label": "Change Tick Sound",
+        "full": "Change Wheel Tick Sound",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "changeTick",
+        "specialColor": "#BB0488",
+        "wheelName": "Wheel Modification Wheel"
+    },
+    "3": {
+        "label": "Toggle Fish Gif",
+        "full": "Fish fish, spin spin spin",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": null,
+        "specialEffect": "fishToggle",
+        "specialColor": null,
+        "wheelName": "Wheel Modification Wheel"
+    },
+    "4": {
+        "label": "ACTIVATE SUBWAY SURFERS",
+        "full": "I hope you like this short gif I found",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "subwaySurfers",
+        "specialColor": null,
+        "wheelName": "Wheel Modification Wheel"
+    },
+    "5": {
+        "label": "Wheel Wheel",
+        "full": "Wheel.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#EE8C4B",
+        "wheelName": "Wheel Modification Wheel"
+    }
+}

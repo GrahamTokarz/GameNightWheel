@@ -1,0 +1,12 @@
+{
+    "WHJackHeads": {
+        "winMult": 1,
+        "sizeMult": 1,
+        "removeFromWheel": 0
+    },
+    "WHJackTails": {
+        "winMult": 1,
+        "sizeMult": 1,
+        "removeFromWheel": 0
+    }
+}

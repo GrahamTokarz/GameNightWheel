@@ -1,0 +1,67 @@
+{
+    "RANDRespin": {
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 0
+    },
+    "GASudoku": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "GACheese1": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "QUBuzz3": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDPoetry": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDHair": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "WHMConfetti": {
+        "sizeMult": 1,
+        "winMult": 4,
+        "removeFromWheel": 1
+    },
+    "DASketchH": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDGS": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "RANDSocks": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0
+    },
+    "WHMPS": {
+        "sizeMult": 1,
+        "winMult": 2,
+        "removeFromWheel": 1
+    },
+    "WHMSC": {
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 0
+    },
+    "WHSec": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    }
+}

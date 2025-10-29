@@ -1,0 +1,47 @@
+{
+    "EWNW1": {
+        "sizeMult": 128,
+        "winMult": 128,
+        "removeFromWheel": 1
+    },
+    "EWNW2": {
+        "sizeMult": 64,
+        "winMult": 64,
+        "removeFromWheel": 1
+    },
+    "EWNW3": {
+        "sizeMult": 32,
+        "winMult": 32,
+        "removeFromWheel": 1
+    },
+    "EWNW4": {
+        "sizeMult": 16,
+        "winMult": 16,
+        "removeFromWheel": 1
+    },
+    "EWNW5": {
+        "sizeMult": 8,
+        "winMult": 8,
+        "removeFromWheel": 1
+    },
+    "EWNW6": {
+        "sizeMult": 4,
+        "winMult": 4,
+        "removeFromWheel": 1
+    },
+    "EWNW7": {
+        "sizeMult": 2,
+        "winMult": 2,
+        "removeFromWheel": 1
+    },
+    "EWNW8": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    },
+    "EWNW9": {
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1
+    }
+}

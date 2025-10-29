@@ -1,0 +1,123 @@
+{
+    "1": {
+        "label": "Annoucement",
+        "full": "Write a server announcement as a group",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "2": {
+        "label": "Australian Citizenship",
+        "full": "Take the Australian Citizenship Test",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "3": {
+        "label": "Recording",
+        "full": "STOP & DELETE RECORDING",
+        "sizeMult": 1,
+        "winMult": 0,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "4": {
+        "label": "Estrogen",
+        "full": "Thalia stabs herself.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "5": {
+        "label": "David Story",
+        "full": "David tells us a story",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "6": {
+        "label": "Outsourcing",
+        "full": "Each person makes a slice for next week's beginner wheel.",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "7": {
+        "label": "Cat Tax",
+        "full": "Say Hi, Jules!",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "8": {
+        "label": "Split the Room",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "9": {
+        "label": "Cheese Points",
+        "full": "+1 Cheese Point",
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": "cheesePoint",
+        "specialColor": "#FFD966",
+        "wheelName": "Gravel Wheel"
+    },
+    "10": {
+        "label": "Bracketeering",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 1,
+        "goToWheel": null,
+        "specialEffect": null,
+        "specialColor": null,
+        "wheelName": "Gravel Wheel"
+    },
+    "11": {
+        "label": "Chaotic Wheel Wheel",
+        "full": null,
+        "sizeMult": 1,
+        "winMult": 1,
+        "removeFromWheel": 0,
+        "goToWheel": "Chaotic Wheel Wheel",
+        "specialEffect": null,
+        "specialColor": "#BB6A29",
+        "wheelName": "Gravel Wheel"
+    }
+}
